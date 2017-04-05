@@ -21,22 +21,14 @@
 		<item> 
             <title>[COLOR yellow] C LIGA HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=C LIGA HD</link> 
-        </item>
-        <item> 
-            <title> MOVISTAR GP HD (ESP)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3315.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR GP HD (ESP)</link> 
-        </item> 
-		<item> 
-            <title>MOVISTAR  DEPORTES 1 HD (ESP)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3325.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR  DEPORTES 1 HD (ESP)</link> 
-        </item> 
-        <item> 
-            <title>[COLOR yellow] MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/R7pyrjk9nQ/j9KVmQtsgD/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotoGP</link> 
+        </item>        
+		 <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>	
-		<item> 
-            <title>[COLOR yellow] F1  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/R7pyrjk9nQ/j9KVmQtsgD/3102.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1</link> 
+		 <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>	
 		 <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
