@@ -23,8 +23,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=C LIGA HD</link> 
         </item>        
 		 <item> 
-            <title>[COLOR yellow] -- [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] BEIN SPORT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+        </item>	
+		 <item> 
+            <title>[COLOR yellow] LA LIGA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV</link> 
+        </item>	
+		 <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>	
 		 <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
