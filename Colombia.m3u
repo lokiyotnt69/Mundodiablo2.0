@@ -1,0 +1,97 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== COLOMBIA ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tele-envivo.com/wp-content/uploads/2015/12/cablenoticias-en-vivo.png" group-title="COLOMBIA",Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/297359498/logoantiestres.jpg" group-title="COLOMBIA",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://entierradeciegos.files.wordpress.com/2013/03/46153_10151482135356461_2132202437_n.jpg" group-title="COLOMBIA",Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1175.png" group-title="COLOMBIA",Canal U OP2
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/ZOOM-CanalUniv-Logo-300x300.jpg" group-title="COLOMBIA",Canal Zoom
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-AEbM_R4zIkw/U3LeoLZrOfI/AAAAAAAABQI/4wa0eT2nQZEshOS1mWUZLidRgRcGIxZRACKgB/s200/CANTINAZO%2BTV.jpg" group-title="COLOMBIA",Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png" group-title="COLOMBIA",Caracol
+http://exabytetv.info/elfutbol.php?token=GOKOQ-1011000110111010011000100111100-ExabyteTV&canal=Ng==&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/200px-Citytv_logo.svg.png" group-title="COLOMBIA",Citytv
+http://exabytetv.zapto.org/exabytetv-esgratis/gc/GOKOQ-1011000110111010011000100111100-ExabyteTV/1699/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3613.png" group-title="COLOMBIA",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3563.png" group-title="COLOMBIA",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://servicios.corferias.com/stand_virtual/images/05/2011/logo%20home.jpg" group-title="COLOMBIA",Hogar TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="COLOMBIA",Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="COLOMBIA",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png" group-title="COLOMBIA",RCN
+http://exabytetv.info/elfutbol.php?token=GOKOQ-1011000110111010011000100111100-ExabyteTV&canal=MTQ=&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/93/Rcn-hd2.jpg" group-title="COLOMBIA",RCN HD2
+http://exabytetv.zapto.org/exabytetv-esgratis/gc/GOKOQ-1011000110111010011000100111100-ExabyteTV/1973/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/585162770435321856/KRBAHsHT.png" group-title="COLOMBIA",Señal Colombia
+http://exabytetv.zapto.org/exabytetv-esgratis/gc/GOKOQ-1011000110111010011000100111100-ExabyteTV/1700/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/353.png" group-title="COLOMBIA",Teleamiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elextramedios.com/drupal/sites/default/files/images/stories/fotosarticulos/abr2011/logo-teleantioquia.jpg" group-title="COLOMBIA",Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="COLOMBIA",Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Telecaribe-Logo-300x300.jpg" group-title="COLOMBIA",Telecaribe
+http://exabytetv.zapto.org/exabytetv-esgratis/gc/GOKOQ-1011000110111010011000100111100-ExabyteTV/1701/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="COLOMBIA",Teleislas
+rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.afacom.org/images/Telemedelln.png" group-title="COLOMBIA",Telemedellin 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telepacifico.com/wp-content/uploads/2016/04/LogoCuad-500-txtColor.png" group-title="COLOMBIA",Telepacifico
+http://exabytetv.zapto.org/exabytetv-esgratis/gc/GOKOQ-1011000110111010011000100111100-ExabyteTV/309/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/685945420481196032/kUzAbj8O.png" group-title="COLOMBIA",Tele Vida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.laurakalop.com/wordpress/wp-content/uploads/2015/08/TigoMusic_LogoOK.png" group-title="COLOMBIA",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="COLOMBIA",Trendy Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sintonizarmedios.com/wp-content/uploads/2015/03/logo_tvagro.jpg" group-title="COLOMBIA",TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://b.vimeocdn.com/ps/428/024/4280242_300.jpg" group-title="COLOMBIA",UNE TV Caribe
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://b.vimeocdn.com/ps/428/024/4280242_300.jpg" group-title="COLOMBIA",UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canaluno.com.co/sites/all/themes/senalcolombia/images/favicon/apple-icon.png" group-title="COLOMBIA",UNO
+http://exabytetv.zapto.org/exabytetv-esgratis/gc/GOKOQ-1011000110111010011000100111100-ExabyteTV/1976/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png" group-title="COLOMBIA",Win Sports
+http://exabytetv.info/elfutbol.php?token=GOKOQ-1011000110111010011000100111100-ExabyteTV&canal=MzU=&f=.m3u8

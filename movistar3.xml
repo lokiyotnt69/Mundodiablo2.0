@@ -1,0 +1,102 @@
+	    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+
+
+
+		<item> 
+            <title>[COLOR yellow]  24 Horas [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10200.ts&amp;streamtype=TSDOWNLOADER&amp;name= 24 Horas</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Accion HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10198.ts&amp;streamtype=TSDOWNLOADER&amp;name=Accion HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] AMC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10197.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10196.ts&amp;streamtype=TSDOWNLOADER&amp;name= AXN</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] AXN White [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10195.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White</link> 
+        </item>
+		
+		<item> 
+            <title>[COLOR yellow] Canal Cocina [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Canal Decasa [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10193.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal Decasa</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal Odisea [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Canal Odisea</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Caza & Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza & Pesca</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Clan TVE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10190.ts&amp;streamtype=TSDOWNLOADER&amp;name= Clan TVE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10189.ts&amp;streamtype=TSDOWNLOADER&amp;name= Comedia</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Comedy Central [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10188.ts&amp;streamtype=TSDOWNLOADER&amp;name= Comedy Central</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Cosmo [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10187.ts&amp;streamtype=TSDOWNLOADER&amp;name= Cosmo</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Crimen Inves [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crimen Inves</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Dcine Espanol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10185.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dcine Espanol</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Dcine HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10184.ts&amp;streamtype=TSDOWNLOADER&amp;name= Dcine HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Deportes [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10183.ts&amp;streamtype=TSDOWNLOADER&amp;name= Deportes</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		

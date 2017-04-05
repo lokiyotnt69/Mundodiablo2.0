@@ -1,0 +1,47 @@
+#EXTM3U
+
+
+#EXTINF:-1,SP: TVE LA 2
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2624.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: TVE LA 1
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2625.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Tve 24
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2673.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: TVE 1 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2674.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: TV Galicia
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2630.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: TELEVISA HD
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2675.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Teledeporte
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2676.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: La Sexta HD
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2692.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: LA SEXTA
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2693.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: LA 2
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2678.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: LA 1 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2679.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Energy
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2699.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: CUATRO
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: CANAL ODISEA
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2664.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Canal 1
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2644.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Canal De Las Estrellas
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2645.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Canal Costa
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2646.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Canal Cocina
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2647.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: NICK JUNIOR
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CLAN TVE
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/517.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/552.ts&amp;streamtype=TSDOWNLOADER

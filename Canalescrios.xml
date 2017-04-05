@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+  <streamingInfos>
+		
+		
+		
+		
+		
+	
+     
+           
+		<item> 
+            <title>[COLOR yellow] NICK JR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1925.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item>					
+		<item> 
+            <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal Panda [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Boing [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item>			

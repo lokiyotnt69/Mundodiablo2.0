@@ -1,0 +1,212 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/805.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: TVE LA2
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2051.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1326.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Telecinco
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1325.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: La Sexta
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/686.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/668.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2082.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Andalucía TV
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/684.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Paramount Channel
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2057.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: TV3 CAT
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2046.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Deportes 2 HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2083.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: GALICIA TV
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2088.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: EXTREMADURA
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2049.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Cine ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2202.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CANAL+ ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/806.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ Xtra
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/674.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ Accion
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/679.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ Comedia
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/665.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ DCine
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/664.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/677.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:TCM
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2054.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:TNT
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2053.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CANAL SUR
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2065.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Entretenimiento ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2203.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: #0_HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2069.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CANAL_SERIES_HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2072.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ series xtra
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1132.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Fox
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/662.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/681.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: AMC_HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2068.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/671.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: AXN WHITE
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2074.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:SYFY
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2076.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/669.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2070.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: COSMOS HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2091.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C _ESTRELLAS
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2067.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2060.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2061.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: canal+ toros
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1131.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Deportes ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2204.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal deporte
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/680.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ Futbol
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/663.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ Liga
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/675.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal+ Golf
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/676.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Bein Sport HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1138.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: BeinSport LaLiga
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4147.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: MOVIESTAR MOTOGP
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1139.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: GOL TV
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/5745.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: GOLF TV
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1136.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/666.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Real Madrid TV
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/685.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: EUROSPORT 1HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2063.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: MOVISTAR_F1
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2058.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Cultura ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2205.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:ODISEA_HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2081.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2055.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: NATGEO WILD HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2056.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: DISCOVERY MAX
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2089.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: DISCOVERY HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2090.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/661.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2075.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/678.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2062.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2059.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CANAL_DECASA
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2071.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Musica ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2206.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Panda
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2077.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Aragon TV
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2078.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Tring History
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2050.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Noticias ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2208.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: TV3_24H
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2047.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:RT
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2079.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Classica
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2048.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: EURONEWS
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2064.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Ninos ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2207.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Disney Channel
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/672.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1137.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2073.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1134.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: NICK JUNIOR
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/1135.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2084.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Taquilla ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2209.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-1
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4033.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-2
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4034.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-3
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4035.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-4
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4036.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-5
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4037.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-6
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4038.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-7
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4039.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-8
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4040.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla-9
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4041.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla 10
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2092.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla 11
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2093.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla 12
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2094.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla 13
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/2095.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,•●★--- Taquilla NINOS ----★●•
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/5835.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla NIÑOS 1
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4134.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla NIÑOS 2
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4135.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla NIÑOS 3
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/4136.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla NIÑOS 4
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/5833.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla NIÑOS 5
+plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/5834.ts&amp;streamtype=TSDOWNLOADER

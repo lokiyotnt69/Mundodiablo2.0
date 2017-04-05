@@ -1,0 +1,566 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+  
+  
+  
+  
+        <item> 
+            <title>●●●●●● NACIONAIS ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1946.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● NACIONAIS ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>RTP 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD</link> 
+        </item> 
+          <item> 
+            <title>RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
+        </item> 
+          <item> 
+            <title>RTP 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD</link> 
+        </item> 
+          <item> 
+            <title>RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+        </item> 
+          <item> 
+            <title>RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
+        </item> 
+          <item> 
+            <title>SIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD</link> 
+        </item> 
+          <item> 
+            <title>SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
+        </item> 
+          <item> 
+            <title>TVI ( sd )</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI ( sd )</link> 
+        </item> 
+          <item> 
+            <title>TVI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● INFORMAÇÃO ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1792.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● INFORMAÇÃO ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
+        </item> 
+          <item> 
+            <title>CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
+        </item> 
+          <item> 
+            <title>PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● ENTRETENIMENTO ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● ENTRETENIMENTO ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
+        </item> 
+          <item> 
+            <title>SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
+        </item> 
+          <item> 
+            <title>SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
+        </item> 
+          <item> 
+            <title>TVI FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link> 
+        </item> 
+          <item> 
+            <title>24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● DESPORTO ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● DESPORTO ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV +</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV +</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV + HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1944.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Sport TV 1 HD (ALT1)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1933.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 1 HD (ALT1)</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 1 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 2 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 3 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 HD</link> 
+        </item> 
+          <item> 
+            <title>BTV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>BTV 1 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>BTV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1</link> 
+        </item> 
+          <item> 
+            <title>SPORTING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV</link> 
+        </item> 
+          <item> 
+            <title>A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2 XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>CACAVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION</link> 
+        </item> 
+          <item> 
+            <title>CACA E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACA E PESCA</link> 
+        </item> 
+          <item> 
+            <title>TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
+        </item> 
+          <item> 
+            <title>KOMBAT SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT</link> 
+        </item> 
+          <item> 
+            <title>REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>CHELSEA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHELSEA TV</link> 
+        </item> 
+          <item> 
+            <title>MOTORVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION</link> 
+        </item> 
+          <item> 
+            <title>MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>FIGHT NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1463.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● FILMES  ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● FILMES  ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1465.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1467.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1469.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1466.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1468.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1470.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1476.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD</link> 
+        </item> 
+          <item> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item> 
+          <item> 
+            <title>CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● SERIES ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● SERIES ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>TV SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD</link> 
+        </item> 
+          <item> 
+            <title>FOX LIVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIVE HD</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1489.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>SUNDANCE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE HD</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● INFANTIL ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● INFANTIL ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item> 
+          <item> 
+            <title>BABY FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1496.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST</link> 
+        </item> 
+          <item> 
+            <title>BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS</link> 
+        </item> 
+          <item> 
+            <title>CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● Musica ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● Musica ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>VH1 CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link> 
+        </item> 
+          <item> 
+            <title>VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1501.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
+        </item> 
+          <item> 
+            <title>TRACE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV</link> 
+        </item> 
+          <item> 
+            <title>MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>MTV DANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
+        </item> 
+          <item> 
+            <title>MCM POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
+        </item> 
+          <item> 
+            <title>C-MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC</link> 
+        </item> 
+          <item> 
+            <title>AFRO MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1509.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● DOCUMENTARIOS ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● DOCUMENTARIOS ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY HD SHOWCASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1510.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HD SHOWCASE</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>MCS EXTREME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1515.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1516.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1517.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>SKY NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1518.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY NEWS</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24</link> 
+        </item> 
+          <item> 
+            <title>EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>BBC WORLD NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD NEWS</link> 
+        </item> 
+          <item> 
+            <title>BBC WORLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD</link> 
+        </item> 
+          <item> 
+            <title>BBC ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1523.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1524.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1525.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>MCS LIFESTYLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1526.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE</link> 
+        </item> 
+          <item> 
+            <title>TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1527.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
+        </item> 
+          <item> 
+            <title>●●●●●● INTERNACIONAIS ●●●●●●</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=●●●●●● INTERNACIONAIS ●●●●●●</link> 
+        </item> 
+          <item> 
+            <title>GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1528.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM</link> 
+        </item> 
+          <item> 
+            <title>GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1529.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO</link> 
+        </item> 
+          <item> 
+            <title>TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1530.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link> 
+        </item> 
+          <item> 
+            <title>RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1531.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
+        </item> 
+          <item> 
+            <title>RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1532.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link> 
+        </item> 
+          <item> 
+            <title>RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1533.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA</link> 
+        </item> 
+          <item> 
+            <title>RTP ACORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1534.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES</link> 
+        </item> 
+          <item> 
+            <title>TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1535.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA</link> 
+        </item> 
+          <item> 
+            <title>FTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1538.ts&amp;streamtype=TSDOWNLOADER&amp;name=FTV</link> 
+        </item> 
+          <item> 
+            <title>A.E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.50.189:8000/live/cabral/cabral/1539.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.E</link> 
+        </item> 
+  

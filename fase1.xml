@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+ <streamingInfos>
+
+<items>
+<playlist_name>lista1</playlist_name>
+<all_region></all_region>
+<channel>
+<title><![CDATA[ LTC  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://144.76.195.147:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3015.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Non Stop People  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://144.76.195.147:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3008.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ PARAMOUNT CHANNEL  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://144.76.195.147:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2995.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal Panda  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://144.76.195.147:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2989.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Boing  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/552.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Paramount Channel  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/512.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Proyecto 40  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/530.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: ANTENA 3 HD  IPTVultra.com [720x416]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4766.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Amc  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/537.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Energy  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/535.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ A&E  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/527.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ FOX  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/542.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  COMEDIA HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4771.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Antena 3  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/543.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  DEPORTES HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4774.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal Cocina  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/531.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  ACCION HD  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4770.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: AXN WHITE HD  IPTVultra.com [640x368]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4767.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C   XTRA HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4769.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal SUR A  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/518.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  DCINE HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4772.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Fox Life HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://144.76.195.147:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2997.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AXN  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/553.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ NOVA  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/546.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ NEOX  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/539.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ COMEDY CENTRAL  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/551.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Axn White  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/554.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal 24 Horas  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/506.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: LA SEXTA HD  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4785.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: BEIN SPORTS  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4768.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LA 1  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/502.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  SERIES HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4780.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  SERIES XTRA HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4781.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LA 1 HD  IPTVultra.com [960x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/503.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: CALLE 13 HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4783.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: LA 1 HD  IPTVultra.com [1440x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4784.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  LIGA HD  IPTVultra.com [720x592]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4779.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: TELECINCO HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4786.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  TOROS HD  IPTVultra.com [960x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/damian/damian/4782.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ SYFY  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/532.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Proyecto 40  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/530.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Paramount Channel  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/512.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ NOVA  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/546.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ NEOX  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/539.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ FOX  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/542.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Energy  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/535.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ COMEDY CENTRAL  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/551.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal SUR A  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/518.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal Cocina  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/531.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AXN  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/553.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Boing  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/552.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Axn White  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/554.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Antena 3  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/543.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Amc  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/537.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ A&E  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/527.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: ANTENA 3 HD  IPTVultra.com [720x416]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4766.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: AXN WHITE HD  IPTVultra.com [640x368]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4767.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: BEIN SPORTS  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4768.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C   XTRA HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4769.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  COMEDIA HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4771.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  ACCION HD  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4770.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  DCINE HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4772.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  DEPORTES HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4774.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  LIGA HD  IPTVultra.com [720x592]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4779.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  SERIES HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4780.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  SERIES XTRA HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4781.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: C  TOROS HD  IPTVultra.com [960x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4782.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: CALLE 13 HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4783.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: LA 1 HD  IPTVultra.com [1440x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4784.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: TELECINCO HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4786.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ESP: LA SEXTA HD  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/4785.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Odissea  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/510.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TCM  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/538.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Super 3 CAT  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/508.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ FOX LIFE ( Local )  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/541.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TNT  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/540.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ CALLE 13  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/548.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Fdf  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/520.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Iberalia TV  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/521.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Barca tv  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/565.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ DIVINITY  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/528.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LA 1 HD  IPTVultra.com [960x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.201.60:8000/live/Manus/Manus/503.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ SyFy  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1132.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Odisea  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1134.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ M  Futbol HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1148.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ la liga tv HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1154.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ FOX Life  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1159.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ FOX  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1160.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ COMEDY CENTRAL HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1167.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ M  Xtra HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1144.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ BEIN LA LIGA HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1172.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ M  Series Xtra HD  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1146.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Nat. Geo Wild HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1139.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TNT HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1128.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ La 2  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1155.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ M  Accion  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1152.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TMC HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1129.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ NONSTOPEOPLE  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1136.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ CRIME INVESTIGACION  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1166.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Historia  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1158.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ A&E  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1176.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal  Estrenos Hd  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1170.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ DISNEY CHANNELS HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1163.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ La Sexta HD  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1153.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Hollywood HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1157.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Nat. Geographic HD  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1138.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ M  Deportes HD  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1149.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ CUATRO  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1165.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1175.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ M  Deportes 2 HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.72.15:8000/live/casa/casa/1150.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal  Liga  IPTVultra.com [1088x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.15.2.85:8000/live/Test/Test/112.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal  Liga 2  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.15.2.85:8000/live/Test/Test/113.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ BEIN SPORTS HD  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.70.190:8000/live/test/test/662.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LA1  IPTVultra.com [640x368]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.70.190:8000/live/test/test/649.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ BEIN LALIGA HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.70.190:8000/live/test/test/661.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/2/2/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/2/2/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/4/4/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/4/4/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TCM HD  IPTVultra.com [720x576]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.202.70.190:8000/live/test/test/694.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/6/6/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/conan/conan/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/6/6/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/conan/conan/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/ewan/ewan/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Canal  Estrenos HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://144.76.195.147:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2985.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/liam/liam/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/nicola/nicola/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/ewan/ewan/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/nino/nino/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/nino/nino/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TELEMUNDO  IPTVultra.com [720x480]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/nicola/nicola/2616.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC  IPTVultra.com [1280x720]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://51.254.197.61:4545/live/liam/liam/2620.ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ AMC HD  IPTVultra.com [1920x1088]
+]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://144.76.195.147:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3004.ts]]></stream_url>
+</channel>
+</items>

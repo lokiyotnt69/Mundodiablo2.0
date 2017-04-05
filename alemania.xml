@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+  <streamingInfos>
+  
+  
+  
+ 
+          <item> 
+            <title>DE:  Muenchen TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:  Muenchen TV</link> 
+        </item> 
+          <item> 
+            <title>DE:  Sonnenklar HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:  Sonnenklar HD</link> 
+        </item> 
+          <item> 
+            <title>DE: 3sat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3sat</link> 
+        </item> 
+          <item> 
+            <title>DE: Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dmax</link> 
+        </item> 
+          <item> 
+            <title>DE: Kabel Eins HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel Eins HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Kika HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika HD</link> 
+        </item> 
+          <item> 
+            <title>DE: NDR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD</link> 
+        </item> 
+          <item> 
+            <title>DE: PRO 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO 7</link> 
+        </item> 
+          <item> 
+            <title>DE: RTL 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2</link> 
+        </item> 
+          <item> 
+            <title>DE: RTL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD</link> 
+        </item> 
+          <item> 
+            <title>DE: RTL PASSION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL PASSION</link> 
+        </item> 
+          <item> 
+            <title>DE: SAT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Atlantic</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky BundesLiga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky BundesLiga HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Bundesliga HD 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Cinema 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 24 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky CINEMA M</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky CINEMA M</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Germany MGM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany MGM</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Germany MOVIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany MOVIE</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sports News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports News</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>DE: Super RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL</link> 
+        </item> 
+          <item> 
+            <title>DE: Syfy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Syfy HD</link> 
+        </item> 
+          <item> 
+            <title>DE: VOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX</link> 
+        </item> 
+          <item> 
+            <title>DE: ZDF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Action</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy</link> 
+        </item> 
+          <item> 
+            <title>Sky Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Emotion</link> 
+        </item> 
+          <item> 
+            <title>Sky Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Hits</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SKY SELECT 2 Hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SELECT 2 Hd</link> 
+        </item> 
+          <item> 
+            <title>SKY SELECT 5 Hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SELECT 5 Hd</link> 
+        </item> 
+          <item> 
+            <title>SKY SELECT 6 Hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SELECT 6 Hd</link> 
+        </item> 
+          <item> 
+            <title>SKY SELECT 7 Hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SELECT 7 Hd</link> 
+        </item> 
+          <item> 
+            <title>SKY SELECT 8 Hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SELECT 8 Hd</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SELECT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2825.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 1</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SELECT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2826.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 2</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SELECT 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2827.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 3</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SELECT 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2828.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 4</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SELECT 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2829.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 5</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SELECT 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2830.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 6</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2831.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2832.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2833.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2834.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2835.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2836.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2837.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2838.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2839.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 9 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Select 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/24358465368465/1593574628/2840.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 10 HD</link> 
+        </item> 
+  

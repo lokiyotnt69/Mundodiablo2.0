@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+  
+  
+  
+		
+		
+		
+		
+		
+		
+		<item> 
+            <title>[COLOR yellow] *** DEPORTES *** [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow] C LIGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=C LIGA HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/MarkoSabolecGmail/owprZPTFZt/5394.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGA</link> 
+        </item>	
+        <item> 
+            <title>MOVISTAR GP HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/MarkoSabolecGmail/owprZPTFZt/6559.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR GP HD (ESP)</link> 
+        </item> 
+		<item> 
+            <title>MOVISTAR  DEPORTES 1 HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/MarkoSabolecGmail/owprZPTFZt/6561.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR  DEPORTES 1 HD (ESP)</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR DEPORTES 2 HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/MarkoSabolecGmail/owprZPTFZt/5398.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DEPORTES 2 HD (ESP)</link> 
+        </item>   <item> 
+            <title>MOVISTAR  F1 HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/MarkoSabolecGmail/owprZPTFZt/6560.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR  F1 HD (ESP)</link> 
+        </item> 
+		
+		
+		
+		
+		     <item> 
+            <title>[COLOR yellow] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>	
+		<item> 
+            <title>[COLOR yellow][/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>	
+		 <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>	
+  
+  
