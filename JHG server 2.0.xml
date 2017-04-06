@@ -1,38 +1,25 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 
-
-
-#EXTINF:-1,ES: Bein Liga HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1968.m3u8
-#EXTINF:-1,ES: Bein Sport HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1967.m3u8
-#EXTINF:-1,ES: Canal  DEPORTES 2 HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1961.m3u8
-#EXTINF:-1,ES: Canal  DEPORTES HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1960.m3u8
-#EXTINF:-1,ES: Canal  ESTRENOS HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1959.m3u8
-#EXTINF:-1,ES: Canal  FUTBOL HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1958.m3u8
-#EXTINF:-1,ES: Canal  GOLF HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1957.m3u8
-#EXTINF:-1,ES: Canal  LIGA 2 HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1956.m3u8
-#EXTINF:-1,ES: Canal  LIGA HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1955.m3u8
-#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1982.m3u8
-#EXTINF:-1,ES : MOVISTAR F1 HD
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1981.m3u8
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1980.m3u8
-#EXTINF:-1,ES : movistar Futbol
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1979.m3u8
-#EXTINF:-1,ES : MOVISTAR MOTOGP
-http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1978.m3u8
-  
+  <streamingInfos>
+		
+		
+		
+		
+		<item> 
+            <title>[COLOR yellow] d  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/3191.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] b [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/3214.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			
+		<item> 
+            <title>[COLOR yellow] - [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/3195.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
  
   
 
