@@ -7,15 +7,11 @@
 		
 		
 		
-		<item> 
-            <title>[COLOR yellow] Moto GP  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
-        </item>
+		
 		<item> 
             <title>[COLOR yellow] F1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/3214.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1</link> 
-        </item>
-			
+        </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
