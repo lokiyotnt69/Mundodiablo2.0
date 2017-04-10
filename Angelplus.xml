@@ -87,12 +87,12 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
         </item>         
           	<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Teledeporte [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TMC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1890.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC</link> 
         </item>
 		 <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
@@ -103,16 +103,16 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
           	<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-		    	<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+		<item> 
+            <title>[COLOR yellow] Neox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
