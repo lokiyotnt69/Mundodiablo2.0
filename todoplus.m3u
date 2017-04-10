@@ -4,18 +4,6 @@
 
 
 
-#EXTINF:-1, Movistar accion
-
-http://edge10.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
-
-
-#EXTINF:-1, TNT
-
-http://edge10.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
-
-#EXTINF:-1, AXN
-
-http://edge10.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
 
 
 
@@ -23,17 +11,21 @@ http://edge10.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
 
 http://cdn1.elitegol.xyz/verliga/27/index.m3u8
 
-#EXTINF:-1, Crimen+investigacion
+#EXTINF:-1, Plus Accion
+http://cdn2.elitegol.xyz/verdirectotv/4/index.m3u8
+#EXTINF:-1, Plus DCINE
+http://cdn3.elitegol.xyz/verliga/7/index.m3u8
+#EXTINF:-1, Plus Comedia
+http://cdn5.elitegol.xyz/verliga/4/index.m3u8
+#EXTINF:-1, calle13
+http://cdn5.elitegol.xyz/verliga/18/index.m3u8
 
-http://edge10.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8http://edge10.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
 
-#EXTINF:-1, MTV
 
+#EXTINF:-1, NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 
-
 #EXTINF:-1,ANIME
-
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 
