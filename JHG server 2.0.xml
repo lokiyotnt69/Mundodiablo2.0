@@ -11,40 +11,24 @@
 		<item> 
             <title>[COLOR yellow] F1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/3214.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] MOVISTAR F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11585.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1</link> 
+        </item>				
+     	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+     	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 			<item> 
-            <title>[COLOR yellow] MOVISTAR MotoGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9254.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MotoGP</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
      	<item> 
-            <title>[COLOR yellow] GOL Tv  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9011.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL Tv</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-     	<item> 
-            <title>[COLOR yellow]  Bein Liga HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9018.ts&amp;streamtype=TSDOWNLOADER&amp;name= Bein Liga HD</link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow] Bein Sport HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9017.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sport HD</link> 
-        </item>
-     	<item> 
-            <title>[COLOR yellow] La Liga BAR HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9009.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga BAR HD</link> 
-        </item>
-     	<item> 
-            <title>[COLOR yellow] MOVISTAR TOROS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3274.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR TOROS</link> 
-        </item> 
  	    <item> 
-            <title>[COLOR yellow] CANAL LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12149.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL LIGA</link> 
-        </item>
-     	<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -52,6 +36,8 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+ 
+ 
  
  
  
