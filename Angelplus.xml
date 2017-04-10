@@ -20,7 +20,7 @@
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/maundyboy/Ne9Ksp15bP/7703.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR red] Movistar Acción [/COLOR]</title> 
@@ -48,7 +48,7 @@
         </item>			
 		<item> 
             <title>[COLOR yellow] Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/maundyboy/Ne9Ksp15bP/7678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] AMC [/COLOR]</title> 
