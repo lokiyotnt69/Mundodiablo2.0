@@ -30,7 +30,16 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
 #EXTINF:-1,  2
 http://cls2.todostreaming.eu/unatv/live/playlist.m3u8
 
-
+#EXTINF:-1, Plus DCINE
+http://cdn3.elitegol.xyz/verliga/7/index.m3u8
+#EXTINF:-1, Plus Comedia
+http://cdn5.elitegol.xyz/verliga/4/index.m3u8
+#EXTINF:-1, calle13
+http://cdn5.elitegol.xyz/verliga/18/index.m3u8
+#EXTINF:-1, ANTENA 3
+http://cdn2.elitegol.xyz/verdirectotv/4/index.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
 
 
 
