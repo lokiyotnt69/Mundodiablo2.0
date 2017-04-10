@@ -5,14 +5,19 @@
 
 #EXTINF:-1,[COLOR red][I][B]--------------------ACTUALIZANDO------------------------------------------[/B][/I][/COLOR]
 
+#EXTM3U
 
 
-
+#EXTINF:-1, ANTENA 3
+http://cdn2.elitegol.xyz/verdirectotv/4/index.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, La Fox
 
 #EXTINF:-1, Andalucia 
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:-1,
-http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0400_av-p.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1, Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
@@ -35,10 +40,35 @@ http://cdn3.elitegol.xyz/verliga/7/index.m3u8
 http://cdn5.elitegol.xyz/verliga/4/index.m3u8
 #EXTINF:-1, calle13
 http://cdn5.elitegol.xyz/verliga/18/index.m3u8
-#EXTINF:-1, ANTENA 3
-http://cdn2.elitegol.xyz/verdirectotv/4/index.m3u8
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, LA FOX
+http://edge5.telesport.pw/live/fox/index.m3u8
+
+
+#EXTINF:-1, Caza y Pesca
+http://cdn3.elitegol.xyz/verliga/15/index.m3u8
+#EXTINF:-1, LA 1
+http://edge3.telesport.pw/live/tve1/index.m3u8
+#EXTINF:-1, LA 2
+http://edge15.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+#EXTINF:-1, FDF
+http://edge1.telesport.pw/live/fdf/index.m3u8
+#EXTINF:-1, LA FOX
+http://edge5.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1, BOX NATION
+http://edge14.livesports.pw/live/verboxnation20d6009b83e8f/index.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
 
 
 
