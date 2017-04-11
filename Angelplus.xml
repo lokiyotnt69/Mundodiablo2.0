@@ -87,56 +87,94 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
         </item>         
           	<item> 
-            <title>[COLOR yellow] Teledeporte [/COLOR]</title> 
+            <title>[COLOR red] Teledeporte [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] TMC [/COLOR]</title> 
+            <title>[COLOR red] TMC [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1890.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC</link> 
         </item>
 		 <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MTV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Divinity [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity</link> 
         </item>
-          	<item> 
-            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
+		<item> 
+            <title>[COLOR red] TOROSTV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Canal  De Casa [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1870.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal De Casa</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Viajar [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1829.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar</link> 
+        </item>
+		<item> 
+            <title>[COLOR red lA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] LA 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1847.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item>
+        <item> 
+            <title>[COLOR red] Telecinco [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] La Sexta [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1846.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Neox [/COLOR]</title> 
+            <title>[COLOR red] Neox [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Cuatro [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1871.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
         </item>
 		 <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
+            <title>[COLOR red] Energy [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Canal Cocina [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Clan Tve [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan Tve</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Canal Panda [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] BABY TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1844.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item>
+	    <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
+            <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-          	<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
+	    <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
+            <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-          
-          
-          
+	
           
           
 		
