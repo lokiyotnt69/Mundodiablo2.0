@@ -231,64 +231,7 @@ http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/15309.ts
 http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/15308.ts
 #EXTINF:-1 tvg-ID="" tvg-name="EC: Teleamazonas" tvg-logo="" group-title="ECUADOR",EC: Teleamazonas
 http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/15313.ts
-#EXTINF:-1 tvg-ID="" tvg-name="=== LOCALES ESPANA ===" tvg-logo="" group-title="ESPANA",=== LOCALES ESPANA ===
-http://158.69.126.51:8000/res/html/VIDEOPROMO/WachTV_IPTV_TRANSFORMANDONOS.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Mega (HD)" tvg-logo="" group-title="ESPANA",ES:Mega (HD)
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/1910.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Antena 3 Internacional HD (1080p)" tvg-logo="" group-title="ESPANA",ES: Antena 3 Internacional HD (1080p)
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16948.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Antena 3 (HD)" tvg-logo="" group-title="ESPANA",ES:Antena 3 (HD)
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/1889.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Antena 3" tvg-logo="" group-title="ESPANA",ES:Antena 3
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/4150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Antena 3" tvg-logo="" group-title="ESPANA",ES: Antena 3
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16769.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: 24 Horas" tvg-logo="" group-title="ESPANA",ES: 24 Horas
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: 8 Madrid TV" tvg-logo="" group-title="ESPANA",ES: 8 Madrid TV
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16764.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Clan TVE" tvg-logo="" group-title="ESPANA",ES: Clan TVE
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16760.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Cuatro" tvg-logo="" group-title="ESPANA",ES: Cuatro
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16768.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: FDF Telecinco" tvg-logo="" group-title="ESPANA",ES: FDF Telecinco
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16761.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: LA 1" tvg-logo="" group-title="ESPANA",ES: LA 1
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16771.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: LA 2" tvg-logo="" group-title="ESPANA",ES: LA 2
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16770.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Sexta" tvg-logo="" group-title="ESPANA",ES: La Sexta
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16766.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Telecinco" tvg-logo="" group-title="ESPANA",ES: Telecinco
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16767.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Teledeporte" tvg-logo="" group-title="ESPANA",ES: Teledeporte
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TeleMadrid Sat" tvg-logo="" group-title="ESPANA",ES: TeleMadrid Sat
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16763.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Calle 13" tvg-logo="" group-title="ESPANA",ES:Calle 13
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12821.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TVE Internacional" tvg-logo="" group-title="ESPANA",ES:TVE Internacional
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12818.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Hispan TV" tvg-logo="" group-title="ESPANA",ES:Hispan TV
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/14080.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Clan TVE (HD)" tvg-logo="" group-title="ESPANA",ES:Clan TVE (HD)
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12817.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Comedy Central" tvg-logo="" group-title="ESPANA",ES:Comedy Central
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12828.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Disney Channel" tvg-logo="" group-title="ESPANA",ES:Disney Channel
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12822.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Disney Junior" tvg-logo="" group-title="ESPANA",ES:Disney Junior
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:National Geographic" tvg-logo="" group-title="ESPANA",ES:National Geographic
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12825.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:National Geographic Wild" tvg-logo="" group-title="ESPANA",ES:National Geographic Wild
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12826.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Odisea" tvg-logo="" group-title="ESPANA",ES:Odisea
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Nova" tvg-logo="" group-title="ESPANA",ES:Nova
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12819.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Syfy" tvg-logo="" group-title="ESPANA",ES:Syfy
-http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/12827.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Benfica TV" tvg-logo="" group-title="ESPANA",ES: Benfica TV
 http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/16939.ts
 #EXTINF:-1 tvg-ID="" tvg-name="=== LOCALES HONDURAS ===" tvg-logo="http://icon-icons.com/icons2/97/PNG/128/honduras_flags_flag_17008.png" group-title="HONDURAS",=== LOCALES HONDURAS ===
