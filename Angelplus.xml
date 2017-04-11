@@ -152,6 +152,42 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Sur</link> 
         </item>
 	    <item> 
+            <title>[COLOR red] NONSTOPEOPLE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3280.ts&amp;streamtype=TSDOWNLOADER&amp;name=NONSTOPEOPLE</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] IBERALIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3286.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/15651.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] LA LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/NatyFernandez/DEMOMultiUsuarios/15659.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA</link> 
+        </item>
+			<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -162,4 +198,3 @@
 	
           
           
-		
