@@ -20,7 +20,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=o
 
 #EXTINF:-1, Andalucia 
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1,
 
 #EXTINF:-1, Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
@@ -45,25 +44,25 @@ http://cdn5.elitegol.xyz/verliga/4/index.m3u8
 http://cdn5.elitegol.xyz/verliga/18/index.m3u8
 #EXTINF:-1, LA FOX
 http://edge5.telesport.pw/live/fox/index.m3u8
-
 #EXTINF:-1, Caza y Pesca
 http://cdn3.elitegol.xyz/verliga/15/index.m3u8
 
 #EXTINF:-1, LA FOX
 http://edge5.telesport.pw/live/fox/index.m3u8
 
-#EXTINF:-1, 
+#EXTINF:-1, Dark
+http://88.148.69.129:9090/play/a00d
 
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1, Discovery Max
+http://88.148.69.129:9090/play/a01c
+#EXTINF:-1, EL CORREO TV
+http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/master.m3u8
 
 #EXTINF:-1, BOX NATION
 http://edge14.livesports.pw/live/verboxnation20d6009b83e8f/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1, UFC
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8?tecnotv.info?.m3u
+
 
 #EXTINF:-1,
 
