@@ -16,7 +16,7 @@
        
 				
 		<item> 
-            <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
+            <title>[COLOR red] Movistar Estrenos [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
@@ -32,11 +32,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Cine Español</link> 
         </item>       
 		<item> 
-            <title>[COLOR yellow] Fox [/COLOR]</title> 
+            <title>[COLOR red] Fox [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/maundyboy/Ne9Ksp15bP/7678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] AXN [/COLOR]</title> 
+            <title>[COLOR red] AXN [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item>
           		<item> 
