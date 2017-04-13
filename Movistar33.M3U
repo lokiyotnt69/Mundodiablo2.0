@@ -19,7 +19,10 @@
 
 http://edge14.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8
 
+#EXTINF:-1, TOROSTV
 
+
+http://edge14.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
 
 #EXTINF:-1,Boing
 
@@ -302,10 +305,7 @@ http://edge14.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
 http://cdn3.elitegol.xyz/verliga/27/index.m3u8
 
 
-#EXTINF:-1, Crimen+investigacion
 
-
-http://edge14.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
 
 #EXTINF:-1, Nova
 
