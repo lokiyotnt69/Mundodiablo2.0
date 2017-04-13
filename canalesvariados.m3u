@@ -63,6 +63,36 @@ http://edge14.livesports.pw/live/verboxnation20d6009b83e8f/index.m3u8
 #EXTINF:-1, UFC
 http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8?tecnotv.info?.m3u
 
+#EXTINF:-1, [COLOR yellow]fox [/COLOR]
+http://cdn1.elitegol.xyz/verliga/28/index.m3u8
+#EXTINF:-1,[COLOR yellow] TNT[/COLOR]
+http://cdn1.elitegol.xyz/verliga/29/index.m3u8
+#EXTINF:-1, [COLOR yellow] MOVISTAR ACCION[/COLOR]
+http://edge3.telesport.pw/live/plusaccion/index.m3u8
+#EXTINF:-1, [COLOR yellow] #0 [/COLOR]
+http://edge4.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+#EXTINF:-1, [COLOR yelow] AMC [/COLOR]
+http://cdn1.elitegol.xyz/verliga/26/index.m3u8
+#EXTINF:-1,[COLOR yellow] CALLE 13 [/COLOR]
+http://cdn1.elitegol.xyz/verliga/18/index.m3u8
+#EXTINF:-1, [COLOR yellow] MOVISTAR COMEDIA [/COLOR]
+http://cdn1.elitegol.xyz/verliga/4/index.m3u8
+#EXTINF:-1, [COLOR yellow] MOVISTAR ESTRENOS [/COLOR]
+http://edge4.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1, [COLOR yellow] Nat GeoWild [/COLOR]
+http://cdn1.elitegol.xyz/verliga/13/index.m3u8
+#EXTINF:-1, [COLOR yellow] DISCOVERY MAX[/COLOR]
+http://cdn1.elitegol.xyz/verliga/27/index.m3u8
+#EXTINF:-1, [COLOR yellow] National geographics [/COLOR]
+http://cdn1.elitegol.xyz/verliga/12/index.m3u8
+#EXTINF:-1,[COLOR yellow] Caza Y Pesca [/COLOR]
+http://cdn1.elitegol.xyz/verliga/15/index.m3u8
+#EXTINF:-1, [COLOR yelow] MOVISTAR DCINE [/COLOR] 
+http://cdn1.elitegol.xyz/verliga/7/index.m3u8
+#EXTINF:-1, [COLOR yelow] DCINE [/COLOR]
+http://cdn1.elitegol.xyz/verliga/7/index.m3u8
+#EXTINF:-1,[COLOR yelow] Ten [/COLOR]
+http://cdn1.elitegol.xyz/verliga/33/index.m3u8
 
 #EXTINF:-1,
 
