@@ -146,15 +146,7 @@
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=link> 
         </item>
-		  <item> 
-            <title>[COLOR red] La Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=La LIga <link> 
-        </item>
-		     <item> 
-            <title>[COLOR red] Liga2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=Liga2link> 
-        </item>
-		  <item> 
+		 <item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=link> 
         </item>
