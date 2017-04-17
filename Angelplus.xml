@@ -128,7 +128,7 @@
         </item>
 		<item> 
             <title>[COLOR red] Gol tv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol Tv</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol Tv</link> 
         </item>	
        <item> 
             <title>[COLOR red] F1 [/COLOR]</title> 
