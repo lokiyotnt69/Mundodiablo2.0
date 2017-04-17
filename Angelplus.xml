@@ -67,10 +67,6 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
         </item>	
 		<item> 
-            <title>[COLOR red] Divinity [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Divinity</link> 
-        </item>
-		<item> 
             <title>[COLOR red] TOROSTV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item>
@@ -82,11 +78,7 @@
             <title>[COLOR red] LA 1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
-		<item> 
-            <title>[COLOR red] LA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
-        </item>
-        <item> 
+	    <item> 
             <title>[COLOR red] Telecinco [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
@@ -101,10 +93,6 @@
 			<item> 
             <title>[COLOR red] Antena 3 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
-        </item>
-		 <item> 
-            <title>[COLOR red] Energy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
         </item>
 		<item> 
             <title>[COLOR red] Clan Tve [/COLOR]</title> 
