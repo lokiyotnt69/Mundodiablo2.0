@@ -16,11 +16,11 @@
        
 		<item> 
             <title>[COLOR red] #0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=#0</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0</link> 
         </item>	
 		<item> 
             <title>[COLOR red] Movistar Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR red] Movistar Acción [/COLOR]</title> 
@@ -52,7 +52,7 @@
         </item>
           		<item> 
             <title>[COLOR red] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
         </item>
 		<item> 
             <title>[COLOR red] Comedy Central [/COLOR]</title> 
@@ -60,11 +60,11 @@
         </item>          
 		<item> 
             <title>[COLOR red] Movistar Series Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
         </item>
          <item> 
             <title>[COLOR red] SyFy HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
         </item>	
 		<item> 
             <title>[COLOR red] Divinity [/COLOR]</title> 
@@ -72,11 +72,11 @@
         </item>
 		<item> 
             <title>[COLOR red] TOROSTV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item>
 	    <item> 
             <title>[COLOR red] Caza Y Pesca  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
         </item>		
 		<item> 
             <title>[COLOR red] LA 1 [/COLOR]</title> 
@@ -96,7 +96,7 @@
         </item>
 		<item> 
             <title>[COLOR red] Cuatro [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
         </item>
 			<item> 
             <title>[COLOR red] Antena 3 [/COLOR]</title> 
@@ -108,35 +108,35 @@
         </item>
 		<item> 
             <title>[COLOR red] Clan Tve [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Clan Tve</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan Tve</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Canal PANDA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
+            <title>[COLOR red] Canal NickJr[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal NickJr</link> 
         </item>
 		<item> 
             <title>[COLOR red] BABY TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
         </item>
 	    <item> 
             <title>[COLOR red] BOING [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
         </item>		  
 		<item> 
-            <title>[COLOR red] IBERALIA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
+            <title>[COLOR red] REDBULL TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDBULL TV</link> 
         </item>		
 		<item> 
             <title>[COLOR red] Dark  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Dark</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dark</link> 
         </item>
 		<item> 
             <title>[COLOR red] XTRM [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
         </item>
 		<item> 
             <title>[COLOR red] Motogp [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=MotoGp</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotoGp</link> 
         </item>
 		<item> 
             <title>[COLOR red] Gol tv [/COLOR]</title> 
@@ -147,16 +147,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1<link> 
         </item>
 		 <item> 
-            <title>[COLOR red] Toros Tv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV<link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=<link> 
         </item>
 		     <item> 
-            <title>[COLOR red] Torostv2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=torostv<link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=<link> 
         </item>
 		  <item> 
-            <title>[COLOR red] Toros3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=toros3<link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=<link> 
         </item>
 		
 		
