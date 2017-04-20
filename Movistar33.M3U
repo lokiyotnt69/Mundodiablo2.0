@@ -7,3 +7,357 @@
 
 
 
+#EXTINF:-1,SP: LA1 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13643.m3u8
+#EXTINF:-1,SP: LA 1
+http://worldcs.info:8080/live/iptvbin.com/1234/33.m3u8
+#EXTINF:-1,SP: LA 2
+http://worldcs.info:8080/live/iptvbin.com/1234/34.m3u8
+#EXTINF:-1,SP: ANTENA 3 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13640.m3u8
+#EXTINF:-1,SP: ANTENA 3
+http://worldcs.info:8080/live/iptvbin.com/1234/407.m3u8
+#EXTINF:-1,SP: CUATRO HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13671.m3u8
+#EXTINF:-1,SP: CUATRO
+http://worldcs.info:8080/live/iptvbin.com/1234/24.m3u8
+#EXTINF:-1,SP: TELECINCO HD
+http://worldcs.info:8080/live/iptvbin.com/1234/7209.m3u8
+#EXTINF:-1,SP: TELECINCO
+http://worldcs.info:8080/live/iptvbin.com/1234/44.m3u8
+#EXTINF:-1,SP: LA SEXTA HD
+http://worldcs.info:8080/live/iptvbin.com/1234/408.m3u8
+#EXTINF:-1,SP: LA SEXTA
+http://worldcs.info:8080/live/iptvbin.com/1234/35.m3u8
+#EXTINF:-1,SP: NEOX
+http://worldcs.info:8080/live/iptvbin.com/1234/7194.m3u8
+#EXTINF:-1,SP: NOVA
+http://worldcs.info:8080/live/iptvbin.com/1234/42.m3u8
+#EXTINF:-1,SP: MEGA TV
+http://worldcs.info:8080/live/iptvbin.com/1234/7200.m3u8
+#EXTINF:-1,SP: FDF
+http://worldcs.info:8080/live/iptvbin.com/1234/404.m3u8
+#EXTINF:-1,SP: DIVINITY
+http://worldcs.info:8080/live/iptvbin.com/1234/7196.m3u8
+#EXTINF:-1,SP: ENERGY
+http://worldcs.info:8080/live/iptvbin.com/1234/405.m3u8
+#EXTINF:-1,SP: TV GALICIA
+http://worldcs.info:8080/live/iptvbin.com/1234/410.m3u8
+#EXTINF:-1,SP: CANAL DE ESTRELLAS
+http://worldcs.info:8080/live/iptvbin.com/1234/18721.m3u8
+#EXTINF:-1,SP: ARAGON TV
+http://worldcs.info:8080/live/iptvbin.com/1234/18722.m3u8
+#EXTINF:-1,SP: BAJO DEMANDA
+http://worldcs.info:8080/live/iptvbin.com/1234/18723.m3u8
+#EXTINF:-1,SP: ANDALUCIA TV
+http://worldcs.info:8080/live/iptvbin.com/1234/7195.m3u8
+#EXTINF:-1,---------- MOVISTAR + ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13658.m3u8
+#EXTINF:-1,SP: #0 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13606.m3u8
+#EXTINF:-1,SP: #0
+http://worldcs.info:8080/live/iptvbin.com/1234/7262.m3u8
+#EXTINF:-1,---------- CINE ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13651.m3u8
+#EXTINF:-1,SP: M. ESTRENOS HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18704.m3u8
+#EXTINF:-1,SP: M. ESTRENOS HD
+http://worldcs.info:8080/live/iptvbin.com/1234/425.m3u8
+#EXTINF:-1,SP: M. ESTRENOS
+http://worldcs.info:8080/live/iptvbin.com/1234/9.m3u8
+#EXTINF:-1,SP: M. ACCION HD(1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18703.m3u8
+#EXTINF:-1,SP: M. ACCION HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13603.m3u8
+#EXTINF:-1,SP: M. ACCION
+http://worldcs.info:8080/live/iptvbin.com/1234/5.m3u8
+#EXTINF:-1,SP:  M. COMEDIA HD(1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18702.m3u8
+#EXTINF:-1,SP: M. COMEDIA HD
+http://worldcs.info:8080/live/iptvbin.com/1234/7211.m3u8
+#EXTINF:-1,SP: M. COMEDIA
+http://worldcs.info:8080/live/iptvbin.com/1234/6.m3u8
+#EXTINF:-1,SP: M. DCINE HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18705.m3u8
+#EXTINF:-1,SP: M. DCINE HD
+http://worldcs.info:8080/live/iptvbin.com/1234/7210.m3u8
+#EXTINF:-1,SP: M. DCINE
+http://worldcs.info:8080/live/iptvbin.com/1234/25.m3u8
+#EXTINF:-1,SP: M. XTRA HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13625.m3u8
+#EXTINF:-1,SP: M. XTRA
+http://worldcs.info:8080/live/iptvbin.com/1234/16.m3u8
+#EXTINF:-1,SP: M CINE ESPANOL
+http://worldcs.info:8080/live/iptvbin.com/1234/7224.m3u8
+#EXTINF:-1,---------- SERIES ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13652.m3u8
+#EXTINF:-1,SP: M SERIES HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18706.m3u8
+#EXTINF:-1,SP: M. SERIES HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13605.m3u8
+#EXTINF:-1,SP: M. SERIES
+http://worldcs.info:8080/live/iptvbin.com/1234/13.m3u8
+#EXTINF:-1,SP: M. SERIES XTRA HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18707.m3u8
+#EXTINF:-1,SP: M. SERIES XTRA HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13628.m3u8
+#EXTINF:-1,SP: M. SERIES XTRA
+http://worldcs.info:8080/live/iptvbin.com/1234/14.m3u8
+#EXTINF:-1,SP: COMEDY CENTRAL HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13634.m3u8
+#EXTINF:-1,SP: COMEDIA CENTRAL
+http://worldcs.info:8080/live/iptvbin.com/1234/7216.m3u8
+#EXTINF:-1,SP: H0LLYWOOD HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18708.m3u8
+#EXTINF:-1,SP: HOLLYWOOD HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13593.m3u8
+#EXTINF:-1,SP: CANAL HOLLYWOOD
+http://worldcs.info:8080/live/iptvbin.com/1234/32.m3u8
+#EXTINF:-1,SP: PARAMOUNT
+http://worldcs.info:8080/live/iptvbin.com/1234/7212.m3u8
+#EXTINF:-1,SP: FOX HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18713.m3u8
+#EXTINF:-1,SP: FOX HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13594.m3u8
+#EXTINF:-1,SP: FOX
+http://worldcs.info:8080/live/iptvbin.com/1234/29.m3u8
+#EXTINF:-1,SP: FOX LIFE HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13622.m3u8
+#EXTINF:-1,SP: FOX LIFE
+http://worldcs.info:8080/live/iptvbin.com/1234/30.m3u8
+#EXTINF:-1,SP: AMC HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18709.m3u8
+#EXTINF:-1,SP: AMC HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13702.m3u8
+#EXTINF:-1,SP: AMC
+http://worldcs.info:8080/live/iptvbin.com/1234/13665.m3u8
+#EXTINF:-1,SP: AXN HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13589.m3u8
+#EXTINF:-1,SP: AXN
+http://worldcs.info:8080/live/iptvbin.com/1234/3.m3u8
+#EXTINF:-1,SP: AXN WHITE HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13624.m3u8
+#EXTINF:-1,SP: AXN WHITE
+http://worldcs.info:8080/live/iptvbin.com/1234/4.m3u8
+#EXTINF:-1,SP: SYFY HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13633.m3u8
+#EXTINF:-1,SP:  SYFY
+http://worldcs.info:8080/live/iptvbin.com/1234/48.m3u8
+#EXTINF:-1,SP: TNT HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13592.m3u8
+#EXTINF:-1,SP: TNT
+http://worldcs.info:8080/live/iptvbin.com/1234/46.m3u8
+#EXTINF:-1,SP: TCM HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13604.m3u8
+#EXTINF:-1,SP: TCM HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18710.m3u8
+#EXTINF:-1,SP: TCM
+http://worldcs.info:8080/live/iptvbin.com/1234/43.m3u8
+#EXTINF:-1,SP: SUDANCE
+http://worldcs.info:8080/live/iptvbin.com/1234/13691.m3u8
+#EXTINF:-1,SP: CALLE 13 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13645.m3u8
+#EXTINF:-1,SP: CALLE 13
+http://worldcs.info:8080/live/iptvbin.com/1234/17.m3u8
+#EXTINF:-1,SP: A&E
+http://worldcs.info:8080/live/iptvbin.com/1234/2.m3u8
+#EXTINF:-1,---------- EXTRA ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13660.m3u8
+#EXTINF:-1,SP: TOROS HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18711.m3u8
+#EXTINF:-1,SP: TOROS HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13602.m3u8
+#EXTINF:-1,SP: TOROS
+http://worldcs.info:8080/live/iptvbin.com/1234/15.m3u8
+#EXTINF:-1,SP: CAZA Y PESCA
+http://worldcs.info:8080/live/iptvbin.com/1234/21.m3u8
+#EXTINF:-1,SP: IBERALIA TV
+http://worldcs.info:8080/live/iptvbin.com/1234/13936.m3u8
+#EXTINF:-1,---------- DOCUMENTALES ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13654.m3u8
+#EXTINF:-1,SP: HISTORIA
+http://worldcs.info:8080/live/iptvbin.com/1234/31.m3u8
+#EXTINF:-1,SP: CANAL ODISEA
+http://worldcs.info:8080/live/iptvbin.com/1234/7225.m3u8
+#EXTINF:-1,SP: NAT GEO HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13590.m3u8
+#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
+http://worldcs.info:8080/live/iptvbin.com/1234/38.m3u8
+#EXTINF:-1,SP: NAT GEO WILD
+http://worldcs.info:8080/live/iptvbin.com/1234/39.m3u8
+#EXTINF:-1,SP: VIAJAR
+http://worldcs.info:8080/live/iptvbin.com/1234/13623.m3u8
+#EXTINF:-1,SP: CRIME & INVESTIGATION
+http://worldcs.info:8080/live/iptvbin.com/1234/7226.m3u8
+#EXTINF:-1,SP: DISCOVERY
+http://worldcs.info:8080/live/iptvbin.com/1234/13692.m3u8
+#EXTINF:-1,SP: NON STOP PEOPLE
+http://worldcs.info:8080/live/iptvbin.com/1234/13935.m3u8
+#EXTINF:-1,---------- MUSICA ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13656.m3u8
+#EXTINF:-1,SP: MEZZO
+http://worldcs.info:8080/live/iptvbin.com/1234/13701.m3u8
+#EXTINF:-1,SP: VH1
+http://worldcs.info:8080/live/iptvbin.com/1234/47.m3u8
+#EXTINF:-1,SP: M. eSports
+http://worldcs.info:8080/live/iptvbin.com/1234/426.m3u8
+#EXTINF:-1,SP: MTV
+http://worldcs.info:8080/live/iptvbin.com/1234/13667.m3u8
+#EXTINF:-1,---------- ESTILO DE VIDA ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13659.m3u8
+#EXTINF:-1,SP: COSMO HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18712.m3u8
+#EXTINF:-1,SP: COSMO HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13629.m3u8
+#EXTINF:-1,SP: CANAL COCINA
+http://worldcs.info:8080/live/iptvbin.com/1234/7201.m3u8
+#EXTINF:-1,SP: CANAL DECASA
+http://worldcs.info:8080/live/iptvbin.com/1234/1760.m3u8
+#EXTINF:-1,SP: CANAL ORBE 21
+http://worldcs.info:8080/live/iptvbin.com/1234/13937.m3u8
+#EXTINF:-1,SP: 24 HORAS
+http://worldcs.info:8080/live/iptvbin.com/1234/13939.m3u8
+#EXTINF:-1,---------- INFANTILES ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13655.m3u8
+#EXTINF:-1,SP: DISNEY CHANNEL
+http://worldcs.info:8080/live/iptvbin.com/1234/26.m3u8
+#EXTINF:-1,SP: DISNEY JUNIOR
+http://worldcs.info:8080/live/iptvbin.com/1234/27.m3u8
+#EXTINF:-1,SP: DISNEY XD
+http://worldcs.info:8080/live/iptvbin.com/1234/28.m3u8
+#EXTINF:-1,SP: NICK JR
+http://worldcs.info:8080/live/iptvbin.com/1234/41.m3u8
+#EXTINF:-1,SP: CLAN TVE
+http://worldcs.info:8080/live/iptvbin.com/1234/413.m3u8
+#EXTINF:-1,SP: BOING
+http://worldcs.info:8080/live/iptvbin.com/1234/409.m3u8
+#EXTINF:-1,SP: NICKELODEON
+http://worldcs.info:8080/live/iptvbin.com/1234/40.m3u8
+#EXTINF:-1,SP: BABY TV
+http://worldcs.info:8080/live/iptvbin.com/1234/13666.m3u8
+#EXTINF:-1,SP: CANAL PANDA
+http://worldcs.info:8080/live/iptvbin.com/1234/13669.m3u8
+#EXTINF:-1,---------- DEPORTES ----------
+http://worldcs.info:8080/live/iptvbin.com/1234/13653.m3u8
+#EXTINF:-1,SP: BEIN SPORTS HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18684.m3u8
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://worldcs.info:8080/live/iptvbin.com/1234/5983.m3u8
+#EXTINF:-1,SP: BEIN SPORTS
+http://worldcs.info:8080/live/iptvbin.com/1234/587.m3u8
+#EXTINF:-1,SP: BEIN LA LIGA HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18683.m3u8
+#EXTINF:-1,SP: BEIN LA LIGA HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13932.m3u8
+#EXTINF:-1,SP: BEIN LA LIGA SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13914.m3u8
+#EXTINF:-1,SP: LA LIGA TV BAR (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18685.m3u8
+#EXTINF:-1,SP: LA LIGA TV BAR HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13933.m3u8
+#EXTINF:-1,SP: LA LIGA TV BAR SD
+http://worldcs.info:8080/live/iptvbin.com/1234/12.m3u8
+#EXTINF:-1,SP: LA LIGA BAR TV 1
+http://worldcs.info:8080/live/iptvbin.com/1234/13940.m3u8
+#EXTINF:-1,SP: GOL TV
+http://worldcs.info:8080/live/iptvbin.com/1234/13934.m3u8
+#EXTINF:-1,SP: M. PARTIDAZO HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18692.m3u8
+#EXTINF:-1,SP: M. PARTIDAZO HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13649.m3u8
+#EXTINF:-1,SP: M. PARTIDAZO SD
+http://worldcs.info:8080/live/iptvbin.com/1234/9190.m3u8
+#EXTINF:-1,SP: M. FUTBOL HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18686.m3u8
+#EXTINF:-1,SP: M.  FUTBOL HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13596.m3u8
+#EXTINF:-1,SP: M. FUTBOL
+http://worldcs.info:8080/live/iptvbin.com/1234/10.m3u8
+#EXTINF:-1,SP: M. DEPORTES 1 HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18690.m3u8
+#EXTINF:-1,SP: M. DEPORTES 1 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13600.m3u8
+#EXTINF:-1,SP: M.  DEPORTES 1
+http://worldcs.info:8080/live/iptvbin.com/1234/419.m3u8
+#EXTINF:-1,SP: M. DEPORTES 2 HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18691.m3u8
+#EXTINF:-1,SP: M. DEPORTES 2 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13627.m3u8
+#EXTINF:-1,SP: M. DEPORTES 2
+http://worldcs.info:8080/live/iptvbin.com/1234/7197.m3u8
+#EXTINF:-1,SP: M. GOLF HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18689.m3u8
+#EXTINF:-1,SP: M. GOLF HD
+http://worldcs.info:8080/live/iptvbin.com/1234/7202.m3u8
+#EXTINF:-1,SP: M. GOLF
+http://worldcs.info:8080/live/iptvbin.com/1234/11.m3u8
+#EXTINF:-1,SP: M. F1 HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18687.m3u8
+#EXTINF:-1,SP: M. F1 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13642.m3u8
+#EXTINF:-1,SP: M. F1
+http://worldcs.info:8080/live/iptvbin.com/1234/5963.m3u8
+#EXTINF:-1,SP: M. MOTOGP HD (1080)
+http://worldcs.info:8080/live/iptvbin.com/1234/18688.m3u8
+#EXTINF:-1,SP:  M. MOTO GP HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13641.m3u8
+#EXTINF:-1,SP: M. MOTO GP
+http://worldcs.info:8080/live/iptvbin.com/1234/5962.m3u8
+#EXTINF:-1,SP: Eurosport 1 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13587.m3u8
+#EXTINF:-1,SP: EUROSPORT 1
+http://worldcs.info:8080/live/iptvbin.com/1234/13668.m3u8
+#EXTINF:-1,SP: EUROSPORT 2
+http://worldcs.info:8080/live/iptvbin.com/1234/13670.m3u8
+#EXTINF:-1,SP: BEIN LA LIGA 1 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13700.m3u8
+#EXTINF:-1,SP: LA LIGA TV 2 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13699.m3u8
+#EXTINF:-1,SP: LA LIGA TV 3 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13698.m3u8
+#EXTINF:-1,SP: LA LIGA TV 4 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13697.m3u8
+#EXTINF:-1,SP: LA LIGA TV 5 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13696.m3u8
+#EXTINF:-1,SP: LA LIGA TV 6 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13695.m3u8
+#EXTINF:-1,SP: LA LIGA TV 7 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13694.m3u8
+#EXTINF:-1,SP: LA LIGA TV 8 SD
+http://worldcs.info:8080/live/iptvbin.com/1234/13693.m3u8
+#EXTINF:-1,SP: BEIN MAX 1 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13646.m3u8
+#EXTINF:-1,SP: BEIN MAX 2 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13647.m3u8
+#EXTINF:-1,SP: BEIN MAX 3 HD
+http://worldcs.info:8080/live/iptvbin.com/1234/13648.m3u8
+#EXTINF:-1,SP: BEIN MAX 1
+http://worldcs.info:8080/live/iptvbin.com/1234/13948.m3u8
+#EXTINF:-1,SP: BEIN MAX 2
+http://worldcs.info:8080/live/iptvbin.com/1234/13947.m3u8
+#EXTINF:-1,SP: BEIN MAX 3
+http://worldcs.info:8080/live/iptvbin.com/1234/13946.m3u8
+#EXTINF:-1,SP: BEIN MAX 4
+http://worldcs.info:8080/live/iptvbin.com/1234/13945.m3u8
+#EXTINF:-1,SP: BEIN MAX 5
+http://worldcs.info:8080/live/iptvbin.com/1234/13944.m3u8
+#EXTINF:-1,SP: BEIN MAX 6
+http://worldcs.info:8080/live/iptvbin.com/1234/13943.m3u8
+#EXTINF:-1,SP: BEIN MAX 7
+http://worldcs.info:8080/live/iptvbin.com/1234/13942.m3u8
+#EXTINF:-1,SP: BEIN MAX 8
+http://worldcs.info:8080/live/iptvbin.com/1234/13941.m3u8
+#EXTINF:-1,SP: MULTIDEPORTES 1
+http://worldcs.info:8080/live/iptvbin.com/1234/16837.m3u8
+#EXTINF:-1,SP: MULTIDEPORTES 2
+http://worldcs.info:8080/live/iptvbin.com/1234/16838.m3u8
+#EXTINF:-1,SP: MULTIDEPORTES 3
+http://worldcs.info:8080/live/iptvbin.com/1234/16839.m3u8
+#EXTINF:-1,SP: MULTIDEPORTES 4
+http://worldcs.info:8080/live/iptvbin.com/1234/16840.m3u8
+#EXTINF:-1,SP: BARCA TV
+http://worldcs.info:8080/live/iptvbin.com/1234/7213.m3u8
+#EXTINF:-1,SP: REAL MADRID
+http://worldcs.info:8080/live/iptvbin.com/1234/422.m3u8
+#EXTINF:-1,SP: TELEDEPORTES
+http://worldcs.info:8080/live/iptvbin.com/1234/13917.m3u8
