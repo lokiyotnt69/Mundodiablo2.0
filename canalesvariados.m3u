@@ -5,47 +5,14 @@
 
 #EXTINF:-1,**JHG**:❤❤❤❤❤ JHG.MASTER ❤❤❤❤❤
 http://orbit-iptv.com:2500/live/123456789/123456789/2302.ts
-#EXTINF:-1,**JHG**:MOVISTAR ACCION
-http://edge4.telesport.pw/live/plusaccion/index.m3u8
-#EXTINF:-1,**JHG**:MOVISTAR COMEDIA
-http://cdn1.elitegol.xyz/verliga/4/index.m3u8
-#EXTINF:-1,**JHG**:MOVISTAR DCINE
-http://cdn1.elitegol.xyz/verliga/7/index.m3u8
-#EXTINF:-1,**JHG**:MOVISTAR ESTRENOS
-http://edge3.telesport.pw/live/plusestrenos/index.m3u8
-#EXTINF:-1,**JHG**:FOX
-http://cdn1.elitegol.xyz/verliga/28/index.m3u8
-#EXTINF:-1,**JHG**:TNT
-http://cdn1.elitegol.xyz/verliga/29/index.m3u8
-#EXTINF:-1,**JHG**:CAZA Y PESCA
-http://cdn1.elitegol.xyz/verliga/15/index.m3u8
-#EXTINF:-1,**JHG**:NAT GEO WILD
-http://cdn1.elitegol.xyz/verliga/13/index.m3u8
-#EXTINF:-1,**JHG**:DISCOVERY MAX
-http://cdn1.elitegol.xyz/verliga/27/index.m3u8
-#EXTINF:-1,**JHG**:NATHIONAL GEOGRAPHIC
-http://cdn1.elitegol.xyz/verliga/12/index.m3u8
-#EXTINF:-1,**JHG**:TEN
-http://cdn1.elitegol.xyz/verliga/33/index.m3u8
-#EXTINF:-1,**JHG**:CALLE 13
-http://cdn1.elitegol.xyz/verliga/18/index.m3u8
-#EXTINF:-1,**JHG**: TOROS TV
-http://cdn3.elitegol.xyz/verdirectotv/9/index.m3u8
 
-#EXTINF:-1,[COLOR red][I][B]--------------------ACTUALIZANDO------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1, La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
 
-#EXTINF:-1, Toros TV
-https://hls.ssh101.com/live/SD360/index.m3u8
-#EXTINF:-1, LA 1
-http://edge3.telesport.pw/live/tve1/index.m3u8
-#EXTINF:-1, LA 2
-http://edge15.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
-#EXTINF:-1, FDF
-http://edge1.telesport.pw/live/fdf/index.m3u8
-#EXTINF:-1, ANTENA 3
-http://cdn2.elitegol.xyz/verdirectotv/4/index.m3u8
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+
+
 
 #EXTINF:-1, Andalucia 
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
