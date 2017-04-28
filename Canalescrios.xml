@@ -14,21 +14,29 @@
            
 		<item> 
             <title>[COLOR yellow] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1925.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item>
            <item> 
             <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.75.17:8000/live/doyon/doyon/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
         </item>					
 		<item> 
             <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal Panda [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.75.17:8000/live/doyon/doyon/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
         </item>
            <item> 
             <title>[COLOR yellow] Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
-        </item>			
+            <link>plugin://plugin.video.f4mTester/?url=http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16394.tss&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item>		
+        <item> 
+            <title>[COLOR yellow] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
