@@ -12,66 +12,58 @@
 		
   
        
-       
-		<item> 
-            <title>[COLOR red] #0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0</link> 
-        </item>	
+       	
 		<item> 
             <title>[COLOR red] Movistar Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR red] Movistar Acción [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
         </item>       
 		<item> 
             <title>[COLOR red] Movistar DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
         </item>			      
 		<item> 
             <title>[COLOR red] M Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/807.ts&amp;streamtype=TSDOWNLOADER&amp;name= M comedia</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/807.ts&amp;streamtype=TSDOWNLOADER&amp;name= M comedia</link> 
         </item>
 		<item> 
             <title>[COLOR red] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item>
           		<item> 
             <title>[COLOR red] CANAL HOLLYWOOD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
         </item>
 		<item> 
             <title>[COLOR red] Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR red] CALLE 13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
         </item>
-          		<item> 
-            <title>[COLOR red] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
-        </item>
-		<item> 
+       	<item> 
             <title>[COLOR red] Comedy Central [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
         </item>          
 		<item> 
             <title>[COLOR red] Movistar Series Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
         </item>
          <item> 
             <title>[COLOR red] SyFy HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
         </item>	
 		<item> 
             <title>[COLOR red] TOROSTV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item>
 	    <item> 
             <title>[COLOR red] Caza Y Pesca  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
         </item>		
 		<item> 
             <title>[COLOR red] LA 1 [/COLOR]</title> 
