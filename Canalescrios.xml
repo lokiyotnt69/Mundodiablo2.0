@@ -33,10 +33,22 @@
             <link>plugin://plugin.video.f4mTester/?url=http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16394.tss&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
         </item>		
         <item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] Boing[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] BABY TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4741.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
         </item>		
+		<item> 
+            <title>[COLOR blue] CLAN TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
+        </item>	
+		<item> 
+            <title>[COLOR blue] NICK JR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4795.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+        </item>	
+		<item> 
+            <title>[COLOR blue] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>	
