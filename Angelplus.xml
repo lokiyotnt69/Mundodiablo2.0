@@ -164,6 +164,15 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+		  <item> 
+            <title>[COLOR yellow] **9 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge7.telesport.pw/live/plusestrenos/27157.ts&amp;streamtype=TSDOWNLOADER&amp;name=st</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] *** [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge7.telesport.pw/live/plusestrenos/27156.ts&amp;streamtype=TSDOWNLOADER&amp;name=sr</link> 
+        </item>
+          
           
           
           
