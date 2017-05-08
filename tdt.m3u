@@ -56,20 +56,71 @@ http://edge10.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
 http://edge15.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8
 
 
-#EXTINF:-1,
+
+#EXTINF:1,[COLOR blue] JHG[/COLOR] [COLOR gold] TDT [/COLOR] 
 
 
-#EXTINF:-1,
-
-#EXTINF:-1,
 
 
-#EXTINF:-1,
 
-#EXTINF:-1,
-
-
-#EXTINF:-1,
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:0,LASEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:0,AtreSeries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:0,13TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:0,CyL7
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:0,Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:0,LaOtra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:0,TvGalicia
+http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8
+#EXTINF:0,CanalExtremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0,Castilla-LaManchaTv
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+#EXTINF:0,AndaluciaTv
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,CANALSURAndalucia
+http://195.55.74.208/rtva/andaluciatelevision-iphone/stream.m3u8
+#EXTINF:0,7TVMURCIA
+rtmp://flash0.80670-live0.dna.qbrick.com/80670-live0/murciatv
+#EXTINF:0,RTPAAsturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0,RtvCe
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0,8Tv
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:0,PopularTvCantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:0,eitbEuskadi
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
+#EXTINF:0,HuelvaTv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:0,ESPECIALViajar
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:0,BETISTV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:0,SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:0,A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:0,F1
+http://edge866.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
 
 
 
