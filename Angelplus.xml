@@ -9,6 +9,7 @@
   
   
   
+  
 
   
        
@@ -65,11 +66,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Movistar Acción [/COLOR]</title> 
+            <title>[COLOR yellow] Movistar Acción [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
         </item>       
 		<item> 
-            <title>[COLOR red] Movistar DCine [/COLOR]</title> 
+            <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
         </item>			
 		<item> 
@@ -93,19 +94,19 @@
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
         </item>
           		<item> 
-            <title>[COLOR red] CANAL HOLLYWOOD [/COLOR]</title> 
+            <title>[COLOR yellow] CANAL HOLLYWOOD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
         </item>
 		<item> 
-            <title>[COLOR red] CALLE 13 [/COLOR]</title> 
+            <title>[COLOR yellow] CALLE 13 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
         </item>
           		<item> 
-            <title>[COLOR red] TNT [/COLOR]</title> 
+            <title>[COLOR yellow] TNT [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Comedy Central [/COLOR]</title> 
+            <title>[COLOR yellow] Comedy Central [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/528.tsamp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
         </item>
           		<item> 
@@ -113,26 +114,10 @@
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Movistar Series Xtra [/COLOR]</title> 
+            <title>[COLOR yellow] Movistar Series Xtra [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
         </item>             
-          	<item> 
-            <title>[COLOR yellow] DEPORTES [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LIGATV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGATV</link> 
-        </item>
-		 <item> 
-            <title>[COLOR yellow] Moto Gp [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/aminstars/asdrwq423/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto Gp</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LaLigatv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://edge863.livesports.pw/live/verbarliga42d2c0aa34b418d/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Laligatv</link> 
-        </item>
-          	<item> 
+       	<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -160,19 +145,36 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-		<item> 
-            <title>[COLOR yellow] 343 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://edge4.livesports.pw/live/vertelecinco39ffb0f0c5e23/42379.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		  <item> 
-            <title>[COLOR yellow] **9 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://edge562.livesports.pw/live/vermotogpmea6b484f0907aac/58833.ts&amp;streamtype=TSDOWNLOADER&amp;name=st</link> 
+		     	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] *** [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://edge7.telesport.pw/live/plusestrenos/27156.ts&amp;streamtype=TSDOWNLOADER&amp;name=sr</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-          
+		    	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		 <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+          	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+	
+	
           
           
           
