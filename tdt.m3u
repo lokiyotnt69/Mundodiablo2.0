@@ -25,8 +25,7 @@ http://a3live-lh.akamaihd.net/i/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=
 http://paramount.live.flumotion.com/live/chunklist.m3u8
 #EXTINF:-1, Disney Channel
 https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
-#EXTINF:-1, 24h
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
+
 
 #EXTINF:-1, FDF
 http://cdn.sitenow.me/live/fdfhd_xrewtt/chunklist.m3u8
@@ -36,28 +35,11 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=o
 #EXTINF:-1, Antena 3 series
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, Clan
-http://edge14.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8
-
-#EXTINF:-1,Boing
-http://edge15.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
-
-#EXTINF:-1, Disney chanel
-
-http://edge15.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
-
-#EXTINF:-1, Nickelodeon
-http://edge14.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8
-
-#EXTINF:-1, Baby tv
-http://edge10.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
-
-#EXTINF:-1,Nick junior
-http://edge15.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8
 
 
 
-#EXTINF:1,[COLOR blue] JHG[/COLOR] [COLOR gold] TDT [/COLOR] 
+
+#EXTINF:1,[COLOR blue] JHG[/COLOR] [COLOR gold] 2 Lista [/COLOR] 
 
 
 
