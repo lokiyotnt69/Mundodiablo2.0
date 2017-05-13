@@ -9,46 +9,59 @@
 		
 		
 		
-	
-     
-           
-		<item> 
-            <title>[COLOR yellow] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.75.17:8000/live/doyon/doyon/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item>					
-		<item> 
-            <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal Panda [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.75.17:8000/live/doyon/doyon/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16394.tss&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
-        </item>		
+	  <item> 
+          <title>[ES]  DISNEY CHANNEL</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7684.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C DISNEY CHANNEL</link> 
+      </item>
+<item> 
+          <title>[ES]  DISNEY JR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7683.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  DISNEY JR</link> 
+      </item> 
         <item> 
-            <title>[COLOR blue] Boing[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] BABY TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4741.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item>		
-		<item> 
-            <title>[COLOR blue] CLAN TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
-        </item>	
-		<item> 
-            <title>[COLOR blue] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4795.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
-        </item>	
-		<item> 
-            <title>[COLOR blue] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>	
+          <title>[ES]  DISNEY XD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  DISNEY XD</link> 
+      </item> 
+        <item> 
+          <title>[ES]  NICKELODEON</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7669.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  NICKELODEON</link> 
+      </item> 
+  <item> 
+          <title>[ES]  NICK JR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7670.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  NICK JR</link> 
+      </item> 
+        <item> 
+          <title>[ES]  CLAN TVE</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  CLAN TVE</link> 
+      </item> 
+        <item> 
+          <title>[ES]  BOING</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7707.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C BOING</link> 
+      </item>
+	      <item> 
+          <title>[ES] C DISNEY CHANNEL</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7684.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C DISNEY CHANNEL</link> 
+      </item>
+<item> 
+          <title>[ES] C  DISNEY JR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7683.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  DISNEY JR</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  DISNEY XD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  DISNEY XD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  NICKELODEON</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7669.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  NICKELODEON</link> 
+      </item> 
+  <item> 
+          <title>[ES] C  NICK JR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7670.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  NICK JR</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  CLAN TVE</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  CLAN TVE</link> 
+      </item> 
+        <item> 
+          <title>[ES] C BOING</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7707.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C BOING</link> 
+      </item>
