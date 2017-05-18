@@ -5,649 +5,837 @@
   <streamingInfos>
 		
 		
-		
-		<item> 
-            <title>SP: #0 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12532.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: #0 HD</link> 
+  
+          <item> 
+            <title>LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item> 
+          <item> 
+            <title>ANTENA 3 ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 ADSL</link> 
+        </item> 
+          <item> 
+            <title>CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
+        </item> 
+          <item> 
+            <title>NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+        </item> 
+          <item> 
+            <title>MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
+        </item> 
+          <item> 
+            <title>DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+        </item> 
+          <item> 
+            <title>ATRESERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATRESERIES HD</link> 
+        </item> 
+          <item> 
+            <title>NEOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX HD</link> 
+        </item> 
+          <item> 
+            <title>TEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEN</link> 
+        </item> 
+          <item> 
+            <title>--------CINE------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------CINE------</link> 
+        </item> 
+          <item> 
+            <title># 0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0 HD</link> 
+        </item> 
+          <item> 
+            <title>M. ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>M. ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>M. DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>M. COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>M. CINE Ã‘</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. CINE Ã‘</link> 
+        </item> 
+          <item> 
+            <title>CANAL HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>DARK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=DARK</link> 
+        </item> 
+          <item> 
+            <title>XTRM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+        </item> 
+          <item> 
+            <title>SOMOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOMOS</link> 
+        </item> 
+          <item> 
+            <title>LIFE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIFE TV</link> 
+        </item> 
+          <item> 
+            <title>SUNDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE</link> 
+        </item> 
+          <item> 
+            <title>PARAMOUNT CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>COSMOPOLITAN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMOPOLITAN HD</link> 
+        </item> 
+          <item> 
+            <title>--------SERIES--------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------SERIES--------</link> 
+        </item> 
+          <item> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item> 
+          <item> 
+            <title>TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item> 
+          <item> 
+            <title>FOX ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX ADSL</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+          <item> 
+            <title>M. SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>M. SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>M. XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>------NOTICIAS------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=------NOTICIAS------</link> 
+        </item> 
+          <item> 
+            <title>24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS</link> 
         </item> 
           <item> 
-            <title>SP: LA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15907.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1</link> 
+            <title>24 HORAS ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS ADSL</link> 
         </item> 
           <item> 
-            <title>SP: LA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7661.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1 HD</link> 
+            <title>EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
         </item> 
           <item> 
-            <title>SP: LA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7660.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 2</link> 
+            <title>RT NOTICIAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS HD</link> 
         </item> 
           <item> 
-            <title>SP: Antena 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7710.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3 HD</link> 
+            <title>RT NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS</link> 
         </item> 
           <item> 
-            <title>SP: Antena 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15474.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3</link> 
+            <title>INFORMACION TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFORMACION TV</link> 
         </item> 
           <item> 
-            <title>SP: CUATRO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15411.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CUATRO HD</link> 
+            <title>DW NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=DW NOTICIAS</link> 
         </item> 
           <item> 
-            <title>SP: Cuatro.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cuatro.</link> 
+            <title>--------AUTONOMICAS---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------AUTONOMICAS---------</link> 
         </item> 
           <item> 
-            <title>SP: TELECINCO FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15412.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO FHD</link> 
+            <title>NON STOP PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=NON STOP PEOPLE</link> 
         </item> 
           <item> 
-            <title>SP: TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/10008.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO</link> 
+            <title>TV CANARIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CANARIA</link> 
         </item> 
           <item> 
-            <title>SP: La Sexta HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7674.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta HD</link> 
+            <title>LANCELOT TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=LANCELOT TV</link> 
         </item> 
           <item> 
-            <title>SP: La Sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15909.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta</link> 
+            <title>CANAL SUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
         </item> 
           <item> 
-            <title>SP: Neox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/14970.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Neox</link> 
+            <title>8 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=8 TV</link> 
         </item> 
           <item> 
-            <title>SP: NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NOVA</link> 
+            <title>TELEMADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEMADRID</link> 
         </item> 
           <item> 
-            <title>SP: Mega Tv HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7713.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Mega Tv HD</link> 
+            <title>8 TV MADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=8 TV MADRID</link> 
         </item> 
           <item> 
-            <title>SP: Fdf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7679.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fdf</link> 
+            <title>LA OTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA OTRA</link> 
         </item> 
           <item> 
-            <title>SP: DIVINITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7714.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DIVINITY</link> 
+            <title>TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3</link> 
         </item> 
           <item> 
-            <title>SP: Energy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7681.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Energy</link> 
+            <title>3/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=3/24</link> 
         </item> 
           <item> 
-            <title>SP: Andalucia TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7640.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Andalucia TV</link> 
+            <title>RIVERA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=RIVERA TV</link> 
         </item> 
           <item> 
-            <title>SP: TV Galicia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7601.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TV Galicia</link> 
+            <title>LUX MALLORCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=LUX MALLORCA</link> 
         </item> 
           <item> 
-            <title>====== ESTILO DE VIDA======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12539.ts&amp;streamtype=TSDOWNLOADER&amp;name======= ESTILO DE VIDA======</link> 
+            <title>CANAL EXTREMADURA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL EXTREMADURA</link> 
         </item> 
           <item> 
-            <title>SP: Cosmo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13704.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cosmo HD</link> 
+            <title>7 HD MURCIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=7 HD MURCIA</link> 
         </item> 
           <item> 
-            <title>SP: Cosmo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7621.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cosmo</link> 
+            <title>HTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=HTV</link> 
         </item> 
           <item> 
-            <title>SP: Canal Cocina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7629.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Cocina</link> 
+            <title>CYL7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=CYL7</link> 
         </item> 
           <item> 
-            <title>SP: 24 Horas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13003.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 24 Horas</link> 
+            <title>--------DEPORTES------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------DEPORTES------</link> 
         </item> 
           <item> 
-            <title>====== INFANTILES ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12536.ts&amp;streamtype=TSDOWNLOADER&amp;name======= INFANTILES ======</link> 
+            <title>LALIGATV BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR HD</link> 
         </item> 
           <item> 
-            <title>SP: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7684.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney Channel</link> 
+            <title>BEIN LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA HD</link> 
         </item> 
           <item> 
-            <title>SP: Disney Jr.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney Jr.</link> 
+            <title>BEIN LA LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA</link> 
         </item> 
           <item> 
-            <title>SP: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7682.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY XD</link> 
+            <title>BEIN SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT HD</link> 
         </item> 
           <item> 
-            <title>SP: Clan TVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Clan TVE</link> 
+            <title>BEIN SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
         </item> 
           <item> 
-            <title>SP: Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Boing</link> 
+            <title>IPTV DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DEPORTES</link> 
         </item> 
           <item> 
-            <title>SP: Nick Jr.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7670.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nick Jr.</link> 
+            <title>LA LIGA 123 SOLO PARTIDOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA 123 SOLO PARTIDOS</link> 
         </item> 
           <item> 
-            <title>SP: NICKELODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICKELODEON HD</link> 
+            <title>A1 SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=A1 SPORT</link> 
         </item> 
           <item> 
-            <title>====== DOCUMENTALES ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12537.ts&amp;streamtype=TSDOWNLOADER&amp;name======= DOCUMENTALES ======</link> 
+            <title>M. FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. FUTBOL</link> 
         </item> 
           <item> 
-            <title>SP: HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7676.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HISTORIA</link> 
+            <title>M. DEPORTES 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 1 HD</link> 
         </item> 
           <item> 
-            <title>SP: Viajar HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12542.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Viajar HD</link> 
+            <title>M. DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 2 HD</link> 
         </item> 
           <item> 
-            <title>SP: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7620.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Discovery Channel</link> 
+            <title>GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
         </item> 
           <item> 
-            <title>SP: National Geo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13706.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo HD</link> 
+            <title>M. MOTO GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MOTO GP</link> 
         </item> 
           <item> 
-            <title>SP: National Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7671.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo</link> 
+            <title>FORMULA 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMULA 1 SD</link> 
         </item> 
           <item> 
-            <title>SP: National Geo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo Wild HD</link> 
+            <title>M. GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. GOLF</link> 
         </item> 
           <item> 
-            <title>SP: National Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7672.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo Wild</link> 
+            <title>EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT1</link> 
         </item> 
           <item> 
-            <title>SP: Crime + Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13004.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Crime + Investigation</link> 
+            <title>EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
         </item> 
           <item> 
-            <title>SP: NON STOP PEOPLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15427.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NON STOP PEOPLE</link> 
+            <title>TELEDEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTES</link> 
         </item> 
           <item> 
-            <title>====== CINE ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12538.ts&amp;streamtype=TSDOWNLOADER&amp;name======= CINE ======</link> 
+            <title>TYC SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=TYC SPORTS</link> 
         </item> 
           <item> 
-            <title>SP: M. ESTRENOS FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15414.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ESTRENOS FHD</link> 
+            <title>RED BULL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RED BULL TV</link> 
         </item> 
           <item> 
-            <title>SP: M.Estrenos</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7703.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.Estrenos</link> 
+            <title>REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
         </item> 
           <item> 
-            <title>SP: M. ACCION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15415.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ACCION HD</link> 
+            <title>BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
         </item> 
           <item> 
-            <title>SP: M. Accion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7698.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Accion</link> 
+            <title>TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
         </item> 
           <item> 
-            <title>SP: M. COMEDIA FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15416.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. COMEDIA FHD</link> 
+            <title>-------INFANTIL----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------INFANTIL----------</link> 
         </item> 
           <item> 
-            <title>SP: M. Comedia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7697.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Comedia</link> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
         </item> 
           <item> 
-            <title>SP: M. DCINE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15417.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE HD</link> 
+            <title>ANIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIME</link> 
         </item> 
           <item> 
-            <title>SP: M. Dcine</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7652.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Dcine</link> 
+            <title>NICK JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item> 
           <item> 
-            <title>SP: M. XTRA FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15418.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA FHD</link> 
+            <title>DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
         </item> 
           <item> 
-            <title>SP: M. XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7649.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA</link> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title>SP: M. SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES HD</link> 
+            <title>CLAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN</link> 
         </item> 
           <item> 
-            <title>SP: M. Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7691.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Series</link> 
+            <title>BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
         </item> 
           <item> 
-            <title>SP: M. SERIES XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES XTRA HD</link> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
         </item> 
           <item> 
-            <title>SP: M. Series Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7690.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Series Xtra</link> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
         </item> 
           <item> 
-            <title>SP: Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13710.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Comedy Central HD</link> 
+            <title>-------DOCUMENTALES-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------DOCUMENTALES-------</link> 
         </item> 
           <item> 
-            <title>SP: Comedy Central.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7687.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Comedy Central.</link> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
         </item> 
           <item> 
-            <title>SP: Hollywood FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7689.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Hollywood FHD</link> 
+            <title>NATIONAL GEOGRAPHIC WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD HD</link> 
         </item> 
           <item> 
-            <title>SP: FOX FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7643.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX FHD</link> 
+            <title>NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
         </item> 
           <item> 
-            <title>SP: Fox.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7678.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox.</link> 
+            <title>NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
         </item> 
           <item> 
-            <title>SP: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13711.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox Life HD</link> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
         </item> 
           <item> 
-            <title>SP: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7677.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX LIFE</link> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
         </item> 
           <item> 
-            <title>SP: AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15421.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AMC HD</link> 
+            <title>DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
         </item> 
           <item> 
-            <title>SP: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN HD</link> 
+            <title>CANAL ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ODISEA</link> 
         </item> 
           <item> 
-            <title>SP: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7709.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN</link> 
+            <title>A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E</link> 
         </item> 
           <item> 
-            <title>SP: AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7708.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN WHITE HD</link> 
+            <title>CRIMEN &amp; INVESTIGACION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN &amp; INVESTIGACION</link> 
         </item> 
           <item> 
-            <title>SP: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7594.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY HD</link> 
+            <title>IBERALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
         </item> 
           <item> 
-            <title>SP: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY</link> 
+            <title>CAZA Y PESCA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA HD</link> 
         </item> 
           <item> 
-            <title>SP: TCM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM HD</link> 
+            <title>CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item> 
           <item> 
-            <title>SP: TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7665.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM</link> 
+            <title>CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
         </item> 
           <item> 
-            <title>SP: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7663.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT</link> 
+            <title>CANAL DE CASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DE CASA</link> 
         </item> 
           <item> 
-            <title>SP: TNT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT HD</link> 
+            <title>VIAJAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR</link> 
         </item> 
           <item> 
-            <title>SP: CALLE 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7705.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CALLE 13 HD</link> 
+            <title>TRAVEL TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL TV HD</link> 
         </item> 
           <item> 
-            <title>SP: PARAMOUNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7716.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: PARAMOUNT</link> 
+            <title>-------MUSICA-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------MUSICA-------</link> 
         </item> 
           <item> 
-            <title>====== Taquilla ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12540.ts&amp;streamtype=TSDOWNLOADER&amp;name======= Taquilla ======</link> 
+            <title>MTV ESPAÃ‘A</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPAÃ‘A</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7612.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 1</link> 
+            <title>MTV HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HITS</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7610.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 2</link> 
+            <title>SOL MUSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOL MUSICA</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7609.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 3</link> 
+            <title>DELUXE MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=DELUXE MUSIC</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7608.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 4</link> 
+            <title>VIRGIN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7607.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 5</link> 
+            <title>CITY MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY MUSIC</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7606.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 6</link> 
+            <title>CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7605.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 7</link> 
+            <title>M2O TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=M2O TV</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7604.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 8</link> 
+            <title>FORMUSIC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMUSIC TV</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7603.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 9</link> 
+            <title>--------TAQUILLAS-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------TAQUILLAS-------</link> 
         </item> 
           <item> 
-            <title>SP: Taquilla 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7611.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 10</link> 
+            <title>TAQUILLA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 1</link> 
         </item> 
           <item> 
-            <title>====== EXTRA ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15476.ts&amp;streamtype=TSDOWNLOADER&amp;name======= EXTRA ======</link> 
+            <title>TAQUILLA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 2</link> 
         </item> 
           <item> 
-            <title>SP: TOROS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15424.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TOROS HD</link> 
+            <title>TAQUILLA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 3</link> 
         </item> 
           <item> 
-            <title>SP: Toros Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Toros Tv</link> 
+            <title>TAQUILLA 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 4</link> 
         </item> 
           <item> 
-            <title>SP: Caza Y Pesca HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Caza Y Pesca HD</link> 
+            <title>TAQUIILA 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUIILA 5</link> 
         </item> 
           <item> 
-            <title>SP: IBERALIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15425.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: IBERALIA TV</link> 
+            <title>TAQUILLA 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 6</link> 
         </item> 
           <item> 
-            <title>====== DEPORTES ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12541.ts&amp;streamtype=TSDOWNLOADER&amp;name======= DEPORTES ======</link> 
+            <title>TAQUILLA 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 7</link> 
         </item> 
           <item> 
-            <title>SP:  M. MOTO GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15438.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  M. MOTO GP</link> 
+            <title>TAQUILLA 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 8</link> 
         </item> 
           <item> 
-            <title>SP: M. MotoGp HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. MotoGp HD</link> 
+            <title>TAQUILLA 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 9</link> 
         </item> 
           <item> 
-            <title>SP: Canal+ Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7715.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ Liga</link> 
+            <title>TAQUILLA 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 10</link> 
         </item> 
           <item> 
-            <title>SP: Gol TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7702.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Gol TV</link> 
+            <title>--------ADULTOS--------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------ADULTOS--------</link> 
         </item> 
           <item> 
-            <title>SP: M.  FUTBOL FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15433.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.  FUTBOL FHD</link> 
+            <title>PLAYBOY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV</link> 
         </item> 
           <item> 
-            <title>SP: M. Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13008.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Futbol</link> 
+            <title>TV XXX (+18)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV XXX (+18)</link> 
         </item> 
           <item> 
-            <title>SP: M. GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13010.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF</link> 
+            <title>CENTO TV (+18)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=CENTO TV (+18)</link> 
         </item> 
           <item> 
-            <title>SP: M. DEPORTES 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15434.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 1 HD</link> 
+            <title>JASMIN TV (+18)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=JASMIN TV (+18)</link> 
         </item> 
           <item> 
-            <title>SP: M. Depotes 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13009.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Depotes 1</link> 
+            <title>VENUS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=VENUS</link> 
         </item> 
           <item> 
-            <title>SP: M. DEPORTES 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15435.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 2 HD</link> 
+            <title>DORCEL TV (+18)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=DORCEL TV (+18)</link> 
         </item> 
           <item> 
-            <title>SP: M. Deportes 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12545.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Deportes 2</link> 
+            <title>HUSTLRER HD (+18)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=HUSTLRER HD (+18)</link> 
         </item> 
           <item> 
-            <title>SP: M. Formula 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15437.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Formula 1 HD</link> 
+            <title>PASSIE XXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=PASSIE XXX</link> 
         </item> 
           <item> 
-            <title>SP: M. Formula 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Formula 1</link> 
+            <title>NUBILES XXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=NUBILES XXX</link> 
         </item> 
           <item> 
-            <title>SP: M. GOLF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15436.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF HD</link> 
+            <title>MEIDEN HOLLAN XXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEIDEN HOLLAN XXX</link> 
         </item> 
           <item> 
-            <title>SP: M. PARTIDAZO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15431.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. PARTIDAZO HD</link> 
+            <title>BLAKEC XXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=BLAKEC XXX</link> 
         </item> 
           <item> 
-            <title>SP: Real Madrid</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7614.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Real Madrid</link> 
+            <title>HOT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT</link> 
         </item> 
           <item> 
-            <title>SP: Barca TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7662.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Barca TV</link> 
+            <title>REDLIGHT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDLIGHT HD</link> 
         </item> 
           <item> 
-            <title>SP: Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15439.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 1 HD</link> 
+            <title>------LATINOS-----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=------LATINOS-----</link> 
         </item> 
           <item> 
-            <title>SP: Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7680.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 1</link> 
+            <title>Latino: TNT Series HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: TNT Series HD</link> 
         </item> 
           <item> 
-            <title>SP: Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15475.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 2</link> 
+            <title>Latino: NatGeo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: NatGeo Wild HD</link> 
         </item> 
           <item> 
-            <title>SP: BEIN SPORTS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15440.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORTS HD</link> 
+            <title>Latino: Multimedios Monterrey HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Multimedios Monterrey HD</link> 
         </item> 
           <item> 
-            <title>SP: BeIN Sports FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: BeIN Sports FHD</link> 
+            <title>Latino: Fox Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Latino: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Sports 2 HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13279.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>SP: Bein LaLiga HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13709.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Bein LaLiga HD</link> 
+            <title>Latino: Fox Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Latino: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Sports</link> 
         </item> 
           <item> 
-            <title>SP: beIN La Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: beIN La Liga</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>SP: La Liga TV Bar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/13006.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Liga TV Bar</link> 
+            <title>Latino: Fox Movies HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Movies HD</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV BAR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15429.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV BAR HD</link> 
+            <title>Latino: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox HD</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA BAR TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15430.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA BAR TV 1</link> 
+            <title>Latino: Fox Cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Cinema HD</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15428.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA HD</link> 
+            <title>Latino: Fox Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Action HD</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15441.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA</link> 
+            <title>Latino: Fox 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox 1 HD</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15442.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 1 SD</link> 
+            <title>Latino: ESPN 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: ESPN 3</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15443.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 2 SD</link> 
+            <title>Latino: ESPN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: ESPN 2</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 3 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15444.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 3 SD</link> 
+            <title>Latino: ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: ESPN</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 4 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15445.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 4 SD</link> 
+            <title>Latino: Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Turbo</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 5 SD</link> 
+            <title>Latino: Discovery TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery TLC</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 6 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15447.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 6 SD</link> 
+            <title>Latino: Discovery Teather HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Teather HD</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 7 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15448.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 7 SD</link> 
+            <title>Latino: Discovery Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Kids</link> 
         </item> 
           <item> 
-            <title>SP: LA LIGA TV 8 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15449.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 8 SD</link> 
+            <title>Latino: Discovery ID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery ID</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15450.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1 HD</link> 
+            <title>Latino: Discovery Civilization</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Civilization</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15453.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1</link> 
+            <title>Latino: Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Channel</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15451.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2 HD</link> 
+            <title>Latino: Cinecanal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Cinecanal</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15454.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2</link> 
+            <title>Latino: Carton Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Carton Network HD</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15455.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3</link> 
+            <title>Latino: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: AXN HD</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15452.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3 HD</link> 
+            <title>Latino: Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Animal Planet</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15456.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 4</link> 
+            <title>Latino: A&amp;E HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: A&amp;E HD</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15457.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 5</link> 
+            <title>Warner HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=Warner HD</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15458.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 6</link> 
+            <title>URUGUAY - VTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=URUGUAY - VTV HD</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15459.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 7</link> 
+            <title>UNIVERSAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=UNIVERSAL HD</link> 
         </item> 
           <item> 
-            <title>SP: BEIN MAX 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15460.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 8</link> 
+            <title>UNICABLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=UNICABLE</link> 
         </item> 
           <item> 
-            <title>SP: MULTIDEPORTES 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15461.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 1</link> 
+            <title>TNT LATINO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT LATINO</link> 
         </item> 
           <item> 
-            <title>SP: MULTIDEPORTES 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15462.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 2</link> 
+            <title>NICKELODEON LATINO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON LATINO</link> 
         </item> 
           <item> 
-            <title>SP: MULTIDEPORTES 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15463.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 3</link> 
+            <title>Golden HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=Golden HD</link> 
         </item> 
           <item> 
-            <title>SP: MULTIDEPORTES 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15464.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 4</link> 
+            <title>Golden Edge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=Golden Edge</link> 
         </item> 
           <item> 
-            <title>SP: Teledeporte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7658.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Teledeporte</link> 
+            <title>Gala Tv HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gala Tv HD</link> 
         </item> 
           <item> 
-            <title>SP: Sol Musica</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7721.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Sol Musica</link> 
+            <title>FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FX</link> 
         </item> 
           <item> 
-            <title>SP: MTV Espana</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12535.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MTV Espana</link> 
+            <title>DISNEY XD LATINO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD LATINO</link> 
         </item> 
           <item> 
-            <title>SP: VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7591.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: VH1</link> 
+            <title>DISNEY JUNIOR LATINO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR LATINO</link> 
         </item> 
           <item> 
-            <title>SP: Proyecto 40</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7667.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Proyecto 40</link> 
+            <title>Disney Channel LATINO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel LATINO</link> 
         </item> 
           <item> 
-            <title>SP: Canal 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7631.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 7 HD</link> 
+            <title>De Pelicula HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=De Pelicula HD</link> 
         </item> 
           <item> 
-            <title>SP: TELEVISA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7657.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELEVISA HD</link> 
+            <title>Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD</link> 
         </item> 
           <item> 
-            <title>SP: Canal 41 Mar Del</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7632.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 41 Mar Del</link> 
+            <title>cinecanal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=cinecanal</link> 
         </item> 
           <item> 
-            <title>SP: Canal 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7633.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 3 HD</link> 
+            <title>CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
         </item> 
           <item> 
-            <title>SP: Canal 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7634.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 2 HD</link> 
+            <title>Canal De Las Estrellas HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal De Las Estrellas HD</link> 
         </item> 
           <item> 
-            <title>SP: Canal Costa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7628.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Costa</link> 
+            <title>Canal 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal 5 HD</link> 
         </item> 
           <item> 
-            <title>SP: 3/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7642.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 3/24</link> 
-        </item> 
-          <item> 
-            <title>SP: 40 TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/12534.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 40 TV</link> 
-        </item> 
-          <item> 
-            <title>SP: Canal De Las Estrellas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/7627.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal De Las Estrellas</link> 
+            <title>Az Click HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/adolfo/adolfo/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=Az Click HD</link> 
         </item> 
   
