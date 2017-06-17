@@ -1,162 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-
-  <streamingInfos>
-		
-		
-		<item> 
-            <title>[COLOR yellow] ++Documentales++ [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Documentales</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Canal Cocina [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal Decasa [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Discovery Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow] NAT GEO WILD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/69.ts&amp;streamtype=TSDOWNLOADER&amp;name= NAT GEO WILD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Viajar [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Odisea  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] Historia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] DMAX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] IBERALIA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] NATIONAL GEOGRAPHIC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+ 
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] DOCUMENTALES 2016 PLAYMAX[/COLOR]</name>
+  <thumbnail>https://playmax.mx/images/favicon_128.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/_PlUPhz5l-c/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/2avn3rozvbbmxcb/Documentales_Playmax.xml</externallink>
+</channel>
+ 
+  </channels>
+ 
+  
+  
+<channels>
+  
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] Documentales Español[/COLOR]</name>
+  <thumbnail>https://dl.dropbox.com/s/iofvq1f3yvqys5i/Documetales_Jdr63.jpg</thumbnail>
+<fanart>https://isakyn.files.wordpress.com/2015/07/docu.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/2muhjysn751le73/jdr63_documetales.m3u</externallink>
+</channel>
+ 
+  
+ <channels>
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] FUERTEVENTURA[/COLOR]</name>
+  <thumbnail>https://dl.dropbox.com/s/28as69r12uv0dcl/Jdr63_Fuerteventura.jpg</thumbnail>
+<fanart>http://www.nightlife-cityguide.com/wp-content/uploads/2014/11/fuerteventura-spiagge.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/x0hqk9vor82i1kt/FuerteventuraJdr63.m3u</externallink>
+</channel>
+  </channels>
+ 
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] MEGALISTAWIS[/COLOR]</name>
+  <thumbnail>http://arturoenelexilio.com/wp-content/uploads/2011/12/documentales.jpeg</thumbnail>
+<fanart>http://vipracing.biz/images/dark.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/s6yzknmr0udmhya/Megalistawise.xml</externallink>
+</channel>
+  </channels>
+ 
+<channels>
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] Papel Pintado Saint Honoré[/COLOR]</name>
+  <thumbnail>http://www.depapelpintado.es/includes/images/logos/21.jpg</thumbnail>
+<fanart>http://www.hogarmania.com/archivos/201409/paredes-papel-pintado-668x400x80xX.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/zkxnq9iydcegspw/Saint%20Honore.xml</externallink>
+</channel>
+  </channels>
+ 
+ 
+<channels>
+ 
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] Cancer de Mama[/COLOR]</name>
+  <thumbnail>https://clik-eidos1.netdna-ssl.com/wp-content/uploads/2014/03/a03.jpg</thumbnail>
+<fanart>http://old.nvinoticias.com/sites/default/files/fotos/2013/10/19/3450057_breast_cancer.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/lx189bo4jiqunv4/Cancer%20de%20Mama.xml</externallink>
+</channel>
+  </channels>
+ 
+<channels>
+ 
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] TITANLUXTV[/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/media/CacRQi4UkAAOeAE.jpg</thumbnail>
+<fanart>https://www.titanlux.es/assets/images/news/2a546-pop.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/5f2wrhvaz10fyuj/Hazlo%20tu%20mismo.xml</externallink>
+</channel>
+  </channels>
+ 
+<channel>
+      <name>[COLOR darkcyan][COLOR  orange]•   [/COLOR] VideoS EN REALIDAD VIRTUAL[/COLOR]</name>
+  <thumbnail>https://www.campustours.com/img/panoramic-vr.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/PGIFXHmw_js/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/pztxor3t8xfnmz8/Vr.xml</externallink>
+</channel>
+ 
+  </channels>
